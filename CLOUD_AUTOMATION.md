@@ -1,7 +1,8 @@
-# Cursor Cloud Automation — GOLD morning brief (AI news summaries)
+# Cursor Cloud Automation — GoldenNews (AI summaries + Slack)
 
 This file is the runbook for a **Cursor Cloud Automation** (Pro).  
-Data fetch stays free (Yahoo + RSS + economic calendar XML). **Only summarization** uses the Cloud Agent.
+Data fetch stays free (Yahoo + RSS + economic calendar XML).  
+**AI summarization + Slack notify** use the Cloud Agent.
 
 ## Goal
 
@@ -9,7 +10,20 @@ Every morning:
 
 1. Collect markets / calendar / news with the free pipeline.
 2. Write Japanese AI summaries into each news item.
-3. Refresh `out/index.html` so the ニュース欄 shows those summaries.
+3. Refresh `out/index.html`.
+4. Post a short digest to Slack **`#golden-news`**.
+
+## Slack setup (do once in Slack + Cursor UI)
+
+1. In Slack, create a **private** channel named **`golden-news`** (shows as `#golden-news`). Add only yourself.
+2. Connect Slack to Cursor: [Automations](https://cursor.com/automations) or [Cloud Agents dashboard](https://cursor.com/dashboard?tab=cloud-agents) → Slack.
+3. Invite / allow the Cursor bot into `#golden-news` if Slack asks (otherwise Send to Slack may fail).
+4. Edit your Automation:
+   - **Repository:** `raging-breakers/GoldenNews` / `main`
+   - **Tools:** enable **Send to Slack** → destination **`#golden-news`**
+   - **Prompt:** replace with the block below
+   - Save & keep Enabled
+5. Optional: **Run now** once and confirm a message appears in `#golden-news`.
 
 ## Agent instructions (paste into Automation prompt)
 
@@ -30,9 +44,16 @@ Steps (do in order):
 6. Confirm out/index.html shows Japanese AI summaries under ニュース（AI要約）.
 7. Commit out/brief.json and out/index.html (and archive HTML if present) with message:
    "chore: morning brief with AI news summaries"
-8. Push to the default branch if a remote is configured.
+8. Push to the default branch (main) if a remote is configured. Prefer direct push to main; use a PR only if push is blocked.
+9. Send a Slack message to channel #golden-news with:
+   - Title line: GoldenNews | {date JST}
+   - Bias: direction + one-line reason (from brief.json bias)
+   - Up to 3 short Japanese news bullets (from ai_summary_ja; truncate to ~80 chars each if long)
+   - Link: https://github.com/raging-breakers/GoldenNews/blob/main/out/index.html
+   - Footer: 個人用メモ。投資助言ではありません。
+   Keep the Slack message concise (under ~1500 characters).
 
-If news is empty, still leave a valid brief and note that in the run summary.
+If news is empty, still leave a valid brief, note that in Slack, and include the GitHub link.
 Do not add paid API keys. Do not change scoring thresholds unless broken.
 ```
 
@@ -40,18 +61,19 @@ Do not add paid API keys. Do not change scoring thresholds unless broken.
 
 | Field | Value |
 |-------|--------|
-| Name | GOLD morning brief + AI news |
-| Trigger | Daily schedule (e.g. every day 06:30 JST — set cron in editor; confirm timezone) |
+| Name | GoldenNews morning brief |
+| Trigger | Daily schedule (e.g. 06:30 JST — confirm cron timezone in editor) |
 | Repository | [raging-breakers/GoldenNews](https://github.com/raging-breakers/GoldenNews) on `main` |
-| Tools | Default cloud tools; push to `main` (or open a PR if you prefer review) |
+| Tools | Default cloud tools + **Send to Slack** → `#golden-news` |
 | Model | A capable Pro-included model you prefer |
 
 ## Prerequisites
 
 1. ~~Initial git commit~~ done
 2. ~~Push to GitHub~~ done: https://github.com/raging-breakers/GoldenNews
-3. Create the automation at https://cursor.com/automations (or Agents Window → Automations)
-4. Ensure Cloud Agents can access this GitHub repo ([Cloud Agents dashboard](https://cursor.com/dashboard?tab=cloud-agents))
+3. Automation at https://cursor.com/automations
+4. Cloud Agents can access this GitHub repo
+5. Slack channel `#golden-news` + Send to Slack tool configured
 
 ## Local check (without Cloud)
 

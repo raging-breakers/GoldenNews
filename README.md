@@ -10,6 +10,7 @@
 - 経済カレンダー自動取得（USD High 中心）
 - ルールベースの簡易バイアス
 - ニュース欄の **AI日本語要約**（Cloud が `brief.json` を埋めて再描画）
+- 毎朝 **Slack `#golden-news`** へダイジェスト通知（Cloud Automation）
 - `out/index.html` に1ページ出力
 
 ## セットアップ
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 .\.venv\Scripts\python.exe -m src.render_brief
 ```
 
-Cloud の手順・Automation 用プロンプトは **[CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md)** を参照。
+Cloud の手順・Automation 用プロンプト・Slack（`#golden-news`）は **[CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md)** を参照。
 
 ## カレンダー
 
