@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-08-30T07:04:42+09:00",
+  "timezone": "Asia/Tokyo",
+  "title": "GOLD Morning Brief",
+  "disclaimer": "個人用メモです。投資助言ではありません。",
+  "markets": {
+    "gold": {
+      "symbol": "GC=F",
+      "last": 4478.10009765625,
+      "prev": 4609.7001953125,
+      "change": -131.60009765625,
+      "change_pct": -2.8548515539052013,
+      "ok": true,
+      "error": null
+    },
+    "dxy": {
+      "symbol": "DX-Y.NYB",
+      "last": 99.16000366210938,
+      "prev": 99.16999816894531,
+      "change": -0.0099945068359375,
+      "change_pct": -0.010078155712891038,
+      "ok": true,
+      "error": null
+    },
+    "us10y": {
+      "symbol": "^TNX",
+      "last": 4.671999931335449,
+      "prev": 4.664000034332275,
+      "change": 0.007999897003173828,
+      "change_pct": 0.17152437702156104,
+      "ok": true,
+      "error": null
+    }
+  },
+  "calendar_view": {
+    "today": [
+      {
+        "id": "2026-08-30-all-jackson-hole-symposium",
+        "date": "2026-08-30",
+        "time_jst": "01:15",
+        "name": "Jackson Hole Symposium",
+        "country": "All",
+        "impact": "medium",
+        "gold_relevance": "high",
+        "note": "主要中銀シンポジウム。ボラ注意",
+        "source": "faireconomy",
+        "forecast": "",
+        "previous": ""
+      }
+    ],
+    "week": []
+  },
+  "news": [
+    {
+      "id": "67e2fc319d5f",
+      "title": "OANDA:XAUUSD Chart Image by Olisa_9 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5",
+      "source": "Google News (gold)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5\" target=\"_blank\">OANDA:XAUUSD Chart Image by Olisa_9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-08-29T19:10:10+00:00",
+      "ai_summary_ja": null
+    },
+    {
+      "id": "e69b09cf791a",
+      "title": "Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3phODZhX081MmZNLVJHNmFTOEE0RTk2ZUpfN0lRel8zM2pFUlliWVZfUi1nd0FKeDF3M1E?oc=5",
+      "source": "Google News (gold)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3",
+      "published": "2026-08-29T18:02:10+00:00",
+      "ai_summary_ja": null
+    },
+    {
+      "id": "63dfbe7d3297",
+      "title": "Bullion Cues: Upturn Projected - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z205YUk2LXhueUhWUdIBvAFBVV95cUxOcWZMSWtqb2loNDlUNGF3QWxyYWEzS1o1cmF3UFlycVRkdU5pQnJFZ054VjVUNDl3QkxETHNjUXMyUHpqOXV0U1ZERDRXVmdoczFUNVZxTjZVTV9fZy1qVlBmUmFVTHdEVkwxQnpnSmVheFZNbXdlbnpGbjdUMXIzY1lqcDJXMXhFSzlMamtvdVJBNkVlRnBjUVdjR3dZVi1tMXc1NEt0MF9uNjlCOGVIeEVDbVFCQzZST2ljNw?oc=5",
+      "source": "Google News (gold)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z2",
+      "published": "2026-08-29T15:57:54+00:00",
+      "ai_summary_ja": null
+    },
+    {
+      "id": "b429c0cda847",
+      "title": "Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call - Exchange Rates Org UK",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfenZkZ0x1dUphZjgzSkFyaVNpM1Y0czlYdzBzcjRJNTg4Tm5CdzJzWEJV?oc=5",
+      "source": "Google News (gold)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfen",
+      "published": "2026-08-29T15:49:00+00:00",
+      "ai_summary_ja": null
+    },
+    {
+      "id": "3abb76cb3057",
+      "title": "Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRTNzelhhRUpBTXZWV3I5ZkZIVmZaNnlkZ9IBxwFBVV95cUxPbzdoN3JRVjRudGljUTI0M0l6QnpQNHZPd2RHb2VtMjA2eUlGT042WERCNVFrYXY2Q09LSWJsWWJ4MGFSTnRwcnUwRlVGT2JHQkljMU0wbzI0YmNMY2dYWXQ5ZzlfUUFQNnVKZDQ3NUdzN29KZi1BQS1pMzhwUFRXcGRxSDBLTGZHbm14TDBUVENMcmY1TVNHNTBHZkMzc20yXzlKZGc0QjU2YjlQOXd4VnpCX0pqNkVrLUR3cWFQX2ZXUktfaXpN?oc=5",
+      "source": "Google News (gold)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRT",
+      "published": "2026-08-29T15:47:44+00:00",
+      "ai_summary_ja": null
+    }
+  ],
+  "bias": {
+    "direction": "中立",
+    "total": -1,
+    "factors": {
+      "gold": -1,
+      "dxy": 0,
+      "us10y": 0,
+      "news": 0
+    },
+    "reasons": [
+      "金の前日比がマイナス"
+    ],
+    "caution": "01:15 Jackson Hole Symposium。主要中銀シンポジウム。ボラ注意",
+    "news_counts": {
+      "bull": 0,
+      "bear": 0
+    },
+    "data_insufficient": false
+  },
+  "ai_summaries_ready": false
+}

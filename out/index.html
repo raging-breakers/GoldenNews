@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GOLD Morning Brief — 2026-08-30</title>
+  <style>
+    :root {
+      --bg: #f3efe6;
+      --ink: #1c1914;
+      --muted: #6b6358;
+      --line: #d4cbb8;
+      --card: #fffdf8;
+      --bull: #1f6b4a;
+      --bear: #8b2e2e;
+      --neutral: #5c5346;
+      --accent: #b08d3c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+      background:
+        radial-gradient(ellipse at top left, #efe6d4 0%, transparent 50%),
+        linear-gradient(180deg, #f7f2e8 0%, var(--bg) 100%);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 3rem;
+    }
+    header h1 {
+      font-size: 1.75rem;
+      letter-spacing: 0.02em;
+      margin: 0 0 0.35rem;
+      font-weight: 700;
+    }
+    .meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .disclaimer {
+      font-size: 0.85rem;
+      color: var(--muted);
+      border-left: 3px solid var(--accent);
+      padding-left: 0.75rem;
+      margin-bottom: 1.75rem;
+    }
+    section {
+      margin-bottom: 1.75rem;
+    }
+    h2 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin: 0 0 0.65rem;
+      font-weight: 600;
+    }
+    .bias {
+      background: var(--card);
+      border: 1px solid var(--line);
+      padding: 1.1rem 1.2rem;
+    }
+    .bias .dir {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+    .bias .dir.bull { color: var(--bull); }
+    .bias .dir.bear { color: var(--bear); }
+    .bias .dir.neutral { color: var(--neutral); }
+    .bias p { margin: 0.35rem 0; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      border: 1px solid var(--line);
+      font-size: 0.95rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.55rem 0.7rem;
+      border-bottom: 1px solid var(--line);
+    }
+    th { color: var(--muted); font-weight: 600; font-size: 0.8rem; }
+    tr:last-child td { border-bottom: none; }
+    .err { color: var(--bear); font-size: 0.8rem; }
+    .muted { color: var(--muted); }
+    ul, ol { padding-left: 1.2rem; margin: 0; }
+    li { margin-bottom: 0.85rem; }
+    a { color: #2a4d6e; }
+    .src { color: var(--muted); font-size: 0.8rem; }
+    .ai {
+      margin-top: 0.35rem;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      color: var(--ink);
+    }
+    .ai.pending {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.85rem;
+    }
+    .sum { color: var(--muted); font-size: 0.8rem; margin-top: 0.2rem; }
+    .factors {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+    }
+    .factors div {
+      background: var(--card);
+      border: 1px solid var(--line);
+      padding: 0.5rem 0.6rem;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    .factors span { display: block; color: var(--muted); font-size: 0.75rem; }
+    @media (max-width: 560px) {
+      .factors { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>GOLD Morning Brief</h1>
+      <div class="meta">生成: 2026-08-30 07:04 UTC+09:00 · AI要約 0/5</div>
+      <p class="disclaimer">個人用メモです。投資助言ではありません。</p>
+    </header>
+
+    <section class="bias">
+      <h2>簡易バイアス</h2>
+      <div class="dir neutral">中立</div>
+      <p><strong>理由</strong> 金の前日比がマイナス</p>
+      <p><strong>注意</strong> 01:15 Jackson Hole Symposium。主要中銀シンポジウム。ボラ注意</p>
+      <div class="factors">
+        <div><span>金</span>−1</div>
+        <div><span>DXY</span>0</div>
+        <div><span>米10年</span>0</div>
+        <div><span>ニュース</span>0</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>価格・指標</h2>
+      <table>
+        <thead><tr><th>銘柄</th><th>直近</th><th>変化</th><th>状態</th></tr></thead>
+        <tbody>
+          <tr class="ok"><td>金 (GC=F)</td><td>4,478.10</td><td>-2.85%</td><td>取得OK</td></tr>
+          <tr class="ok"><td>DXY</td><td>99.16</td><td>-0.01%</td><td>取得OK</td></tr>
+          <tr class="ok"><td>米10年 (^TNX)</td><td>4.672</td><td>+0.008</td><td>取得OK</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>今日のイベント</h2>
+      <ul><li><strong>01:15 Jackson Hole Symposium</strong> — 主要中銀シンポジウム。ボラ注意</li></ul>
+      <h2 style="margin-top:1.2rem">今週の注目 (high)</h2>
+      <p class="muted">直近数日の high イベントは未登録、または来週フィードが未公開です</p>
+    </section>
+
+    <section>
+      <h2>ニュース（AI要約）</h2>
+      <ol><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5" target="_blank" rel="noopener">OANDA:XAUUSD Chart Image by Olisa_9 - TradingView</a> <span class="src">Google News (gold)</span><div class="ai pending">AI要約待ち（Cursor Cloud）</div><div class="sum">&lt;a href=&quot;https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5&quot; target=&quot;_blank&quot;&gt;OANDA:XAUUSD Chart Image by Olisa_9&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;TradingView&lt;/font&gt;</div></li><li><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3phODZhX081MmZNLVJHNmFTOEE0RTk2ZUpfN0lRel8zM2pFUlliWVZfUi1nd0FKeDF3M1E?oc=5" target="_blank" rel="noopener">Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion&#x27;s Rally Takes a Breather - AD HOC NEWS</a> <span class="src">Google News (gold)</span><div class="ai pending">AI要約待ち（Cursor Cloud）</div><div class="sum">&lt;a href=&quot;https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3</div></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z205YUk2LXhueUhWUdIBvAFBVV95cUxOcWZMSWtqb2loNDlUNGF3QWxyYWEzS1o1cmF3UFlycVRkdU5pQnJFZ054VjVUNDl3QkxETHNjUXMyUHpqOXV0U1ZERDRXVmdoczFUNVZxTjZVTV9fZy1qVlBmUmFVTHdEVkwxQnpnSmVheFZNbXdlbnpGbjdUMXIzY1lqcDJXMXhFSzlMamtvdVJBNkVlRnBjUVdjR3dZVi1tMXc1NEt0MF9uNjlCOGVIeEVDbVFCQzZST2ljNw?oc=5" target="_blank" rel="noopener">Bullion Cues: Upturn Projected - BusinessLine</a> <span class="src">Google News (gold)</span><div class="ai pending">AI要約待ち（Cursor Cloud）</div><div class="sum">&lt;a href=&quot;https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z2</div></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfenZkZ0x1dUphZjgzSkFyaVNpM1Y0czlYdzBzcjRJNTg4Tm5CdzJzWEJV?oc=5" target="_blank" rel="noopener">Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call - Exchange Rates Org UK</a> <span class="src">Google News (gold)</span><div class="ai pending">AI要約待ち（Cursor Cloud）</div><div class="sum">&lt;a href=&quot;https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfen</div></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRTNzelhhRUpBTXZWV3I5ZkZIVmZaNnlkZ9IBxwFBVV95cUxPbzdoN3JRVjRudGljUTI0M0l6QnpQNHZPd2RHb2VtMjA2eUlGT042WERCNVFrYXY2Q09LSWJsWWJ4MGFSTnRwcnUwRlVGT2JHQkljMU0wbzI0YmNMY2dYWXQ5ZzlfUUFQNnVKZDQ3NUdzN29KZi1BQS1pMzhwUFRXcGRxSDBLTGZHbm14TDBUVENMcmY1TVNHNTBHZkMzc20yXzlKZGc0QjU2YjlQOXd4VnpCX0pqNkVrLUR3cWFQX2ZXUktfaXpN?oc=5" target="_blank" rel="noopener">Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion - simplywall.st</a> <span class="src">Google News (gold)</span><div class="ai pending">AI要約待ち（Cursor Cloud）</div><div class="sum">&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRT</div></li></ol>
+    </section>
+  </main>
+</body>
+</html>

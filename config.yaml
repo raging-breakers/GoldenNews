@@ -1,0 +1,58 @@
+timezone: Asia/Tokyo
+
+# Economic calendar (Forex Factory mirror via Fair Economy — no API key)
+calendar:
+  auto_fetch: true
+  cache_hours: 12
+  min_impact: high
+  countries:
+    - USD
+    - All
+  include_gold_keywords: true
+  feeds:
+    - https://nfs.faireconomy.media/ff_calendar_thisweek.xml
+    - https://nfs.faireconomy.media/ff_calendar_nextweek.xml
+
+# Yahoo Finance symbols (no API key)
+symbols:
+  gold: GC=F
+  dxy: DX-Y.NYB
+  us10y: "^TNX"
+
+# Score thresholds (see design)
+thresholds:
+  gold_pct: 0.3
+  dxy_pct: 0.2
+  us10y_pts: 0.03
+
+news:
+  max_items: 5
+  lookback_hours: 24
+  feeds:
+    - name: Google News (gold)
+      url: https://news.google.com/rss/search?q=%22gold+price%22+OR+XAUUSD+OR+bullion&hl=en-US&gl=US&ceid=US:en
+    - name: Yahoo GC=F
+      url: https://feeds.finance.yahoo.com/rss/2.0/headline?s=GC=F&region=US&lang=en-US
+  # Simple keyword polarity (case-insensitive)
+  bullish_keywords:
+    - safe haven
+    - rate cut
+    - dollar weak
+    - weaker dollar
+    - geopolitical
+    - central bank buying
+    - gold rises
+    - gold rally
+  bearish_keywords:
+    - stronger dollar
+    - dollar strength
+    - higher yields
+    - hawkish
+    - risk-on
+    - profit taking
+    - gold falls
+    - gold drops
+
+page:
+  title: GOLD Morning Brief
+  disclaimer: 個人用メモです。投資助言ではありません。
