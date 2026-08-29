@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-30T07:04:42+09:00",
+  "generated_at": "2026-08-30T07:20:57+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4478.10009765625,
-      "prev": 4609.7001953125,
-      "change": -131.60009765625,
-      "change_pct": -2.8548515539052013,
+      "last": 4609.7001953125,
+      "prev": 4598.2001953125,
+      "change": 11.5,
+      "change_pct": 0.2500978537585931,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 99.16000366210938,
-      "prev": 99.16999816894531,
-      "change": -0.0099945068359375,
-      "change_pct": -0.010078155712891038,
+      "last": 99.69999694824219,
+      "prev": 99.16000366210938,
+      "change": 0.5399932861328125,
+      "change_pct": 0.5445676343184248,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 4.671999931335449,
-      "prev": 4.664000034332275,
-      "change": 0.007999897003173828,
-      "change_pct": 0.17152437702156104,
+      "last": 4.71999979019165,
+      "prev": 4.671999931335449,
+      "change": 0.04799985885620117,
+      "change_pct": 1.0273942543162848,
       "ok": true,
       "error": null
     }
@@ -56,58 +56,59 @@
       "title": "OANDA:XAUUSD Chart Image by Olisa_9 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5",
       "source": "Google News (gold)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE01b09Pb2tHRnVVSUNYdzJjdncxSklSUGEwWUV6d2pXUmlNQkFBMGp0bTFOTU5ZdWhXckdXdlVWMjFwalBQOEdzbzV1Q0RqSmM?oc=5\" target=\"_blank\">OANDA:XAUUSD Chart Image by Olisa_9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "summary": "OANDA:XAUUSD Chart Image by Olisa_9 &nbsp;&nbsp; TradingView",
       "published": "2026-08-29T19:10:10+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "TradingView上で、ユーザーOlisa_9がOANDAのXAUUSD（金対米ドル）のチャート画像を公開したことが、Googleニュース（金関連）経由で取り上げられている。記事タイトルは「OANDA:XAUUSD Chart Image by Olisa_9」で、情報源はTradingView。内容はチャート画像の共有に関するものであり、具体的な相場分析や数値予測は示されていない。個人投資家によるチャート投稿がニュースフィードに載った事例として報じられている。"
     },
     {
       "id": "e69b09cf791a",
       "title": "Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3phODZhX081MmZNLVJHNmFTOEE0RTk2ZUpfN0lRel8zM2pFUlliWVZfUi1nd0FKeDF3M1E?oc=5",
       "source": "Google News (gold)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3",
+      "summary": "Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather &nbsp;&nbsp; AD HOC NEWS",
       "published": "2026-08-29T18:02:10+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "AD HOC NEWSによると、金鉱山企業がロイヤルティ（権利使用料）負担の増加により圧迫を受けている一方、金価格の上昇ラリーは一時的に足踏みしているという。記事タイトルは「Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather」。金鉱山セクターにおけるコスト面の圧力と、地金（ブリオン）相場の動きが同時に報じられている内容である。"
     },
     {
       "id": "63dfbe7d3297",
       "title": "Bullion Cues: Upturn Projected - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z205YUk2LXhueUhWUdIBvAFBVV95cUxOcWZMSWtqb2loNDlUNGF3QWxyYWEzS1o1cmF3UFlycVRkdU5pQnJFZ054VjVUNDl3QkxETHNjUXMyUHpqOXV0U1ZERDRXVmdoczFUNVZxTjZVTV9fZy1qVlBmUmFVTHdEVkwxQnpnSmVheFZNbXdlbnpGbjdUMXIzY1lqcDJXMXhFSzlMamtvdVJBNkVlRnBjUVdjR3dZVi1tMXc1NEt0MF9uNjlCOGVIeEVDbVFCQzZST2ljNw?oc=5",
       "source": "Google News (gold)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z2",
+      "summary": "Bullion Cues: Upturn Projected &nbsp;&nbsp; BusinessLine",
       "published": "2026-08-29T15:57:54+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "BusinessLineは「Bullion Cues: Upturn Projected」と題し、地金相場の上向きが見込まれるとの見方を報じている。記事は金（ブリオン）相場の方向感に関する示唆を取り上げたもので、具体的な価格水準や時期についての詳細はタイトル・概要からは読み取れない。BusinessLine経由でGoogleニュース（金関連）に掲載された。記事は地金相場の動向に関する一般的な見通しを提示する内容として紹介されている。"
     },
     {
       "id": "b429c0cda847",
       "title": "Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call - Exchange Rates Org UK",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfenZkZ0x1dUphZjgzSkFyaVNpM1Y0czlYdzBzcjRJNTg4Tm5CdzJzWEJV?oc=5",
       "source": "Google News (gold)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfen",
+      "summary": "Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call &nbsp;&nbsp; Exchange Rates Org UK",
       "published": "2026-08-29T15:49:00+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "Exchange Rates Org UKは、金価格の予測に関する記事を掲載した。タイトルは「Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call」で、ウォーシュ氏関連の売り圧力が、クレディ・アグリコルが示した5,000ドル目標の見方を試す状況であると報じている。記事は外部機関の価格見通しと直近の値動きを取り上げた分析記事として紹介されている。"
     },
     {
       "id": "3abb76cb3057",
       "title": "Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRTNzelhhRUpBTXZWV3I5ZkZIVmZaNnlkZ9IBxwFBVV95cUxPbzdoN3JRVjRudGljUTI0M0l6QnpQNHZPd2RHb2VtMjA2eUlGT042WERCNVFrYXY2Q09LSWJsWWJ4MGFSTnRwcnUwRlVGT2JHQkljMU0wbzI0YmNMY2dYWXQ5ZzlfUUFQNnVKZDQ3NUdzN29KZi1BQS1pMzhwUFRXcGRxSDBLTGZHbm14TDBUVENMcmY1TVNHNTBHZkMzc20yXzlKZGc0QjU2YjlQOXd4VnpCX0pqNkVrLUR3cWFQX2ZXUktfaXpN?oc=5",
       "source": "Google News (gold)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRT",
+      "summary": "Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion &nbsp;&nbsp; simplywall.st",
       "published": "2026-08-29T15:47:44+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "simplywall.stによる記事「Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion」は、中央銀行が地金の購入を続ける中、個人投資家が金関連株を買い集めている動きを取り上げている。地金需要の公的セクター側の動向と、小売投資家の金株への関心が同時に報じられている内容である。Googleニュース（金関連）経由で配信された。"
     }
   ],
   "bias": {
-    "direction": "中立",
-    "total": -1,
+    "direction": "弱気寄り",
+    "total": -2,
     "factors": {
-      "gold": -1,
-      "dxy": 0,
-      "us10y": 0,
+      "gold": 0,
+      "dxy": -1,
+      "us10y": -1,
       "news": 0
     },
     "reasons": [
-      "金の前日比がマイナス"
+      "ドル指数が強い",
+      "米金利が上昇"
     ],
     "caution": "01:15 Jackson Hole Symposium。主要中銀シンポジウム。ボラ注意",
     "news_counts": {
@@ -116,5 +117,5 @@
     },
     "data_insufficient": false
   },
-  "ai_summaries_ready": false
+  "ai_summaries_ready": true
 }
