@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-USER_AGENT = "gold-news/0.1 (personal morning brief)"
+USER_AGENT = "GoldenNews/0.1 (personal morning brief)"
 
 # Prefer XML: JSON endpoint is easily rate-limited (429)
 DEFAULT_FEEDS = [

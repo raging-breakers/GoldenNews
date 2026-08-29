@@ -14,7 +14,7 @@ Every morning:
 ## Agent instructions (paste into Automation prompt)
 
 ```text
-You are updating the gold-news morning brief in this repository.
+You are updating the GoldenNews morning brief in this repository.
 
 Steps (do in order):
 1. Install deps if needed: python -m pip install -r requirements.txt
@@ -42,14 +42,14 @@ Do not add paid API keys. Do not change scoring thresholds unless broken.
 |-------|--------|
 | Name | GOLD morning brief + AI news |
 | Trigger | Daily schedule (e.g. every day 06:30 JST — set cron in editor; confirm timezone) |
-| Repository | [raging-breakers/gold-news](https://github.com/raging-breakers/gold-news) on `main` |
+| Repository | [raging-breakers/GoldenNews](https://github.com/raging-breakers/GoldenNews) on `main` |
 | Tools | Default cloud tools; push to `main` (or open a PR if you prefer review) |
 | Model | A capable Pro-included model you prefer |
 
 ## Prerequisites
 
 1. ~~Initial git commit~~ done
-2. ~~Push to GitHub~~ done: https://github.com/raging-breakers/gold-news
+2. ~~Push to GitHub~~ done: https://github.com/raging-breakers/GoldenNews
 3. Create the automation at https://cursor.com/automations (or Agents Window → Automations)
 4. Ensure Cloud Agents can access this GitHub repo ([Cloud Agents dashboard](https://cursor.com/dashboard?tab=cloud-agents))
 

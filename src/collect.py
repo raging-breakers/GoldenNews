@@ -12,7 +12,7 @@ import feedparser
 import requests
 
 YAHOO_CHART = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
-USER_AGENT = "gold-news/0.1 (personal morning brief)"
+USER_AGENT = "GoldenNews/0.1 (personal morning brief)"
 
 
 def _session() -> requests.Session:

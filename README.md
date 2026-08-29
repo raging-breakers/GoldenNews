@@ -1,4 +1,4 @@
-# gold-news
+# GoldenNews
 
 自分用の GOLD（XAU）朝イチまとめページ。  
 取得は無料（Yahoo + RSS + 経済カレンダー）。**ニュースの日本語要約は Cursor Cloud Automation（Pro）**。

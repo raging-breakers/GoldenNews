@@ -1,1 +1,1 @@
-# gold-news package marker
+# GoldenNews package marker
