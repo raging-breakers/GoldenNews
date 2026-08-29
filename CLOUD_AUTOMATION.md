@@ -42,15 +42,16 @@ Do not add paid API keys. Do not change scoring thresholds unless broken.
 |-------|--------|
 | Name | GOLD morning brief + AI news |
 | Trigger | Daily schedule (e.g. every day 06:30 JST — set cron in editor; confirm timezone) |
-| Repository | This repo (`GoldenNews` / gold-news) on `main` |
-| Tools | Default cloud tools; enable PR creation only if you want a PR instead of direct push |
+| Repository | [raging-breakers/gold-news](https://github.com/raging-breakers/gold-news) on `main` |
+| Tools | Default cloud tools; push to `main` (or open a PR if you prefer review) |
 | Model | A capable Pro-included model you prefer |
 
 ## Prerequisites
 
-1. Initial git commit of the project.
-2. Push to GitHub or Cursor-hosted remote (Cloud needs a cloneable repo).
-3. Create the automation at https://cursor.com/automations (or Agents Window → Automations).
+1. ~~Initial git commit~~ done
+2. ~~Push to GitHub~~ done: https://github.com/raging-breakers/gold-news
+3. Create the automation at https://cursor.com/automations (or Agents Window → Automations)
+4. Ensure Cloud Agents can access this GitHub repo ([Cloud Agents dashboard](https://cursor.com/dashboard?tab=cloud-agents))
 
 ## Local check (without Cloud)
 
