@@ -41,6 +41,17 @@ pip install -r requirements.txt
 
 Cloud の手順・Automation 用プロンプト・Slack（`#golden-news`）は **[CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md)** を参照。
 
+## ページの見方
+
+GitHub の `blob/.../index.html` は **HTMLのソース** が表示されます（`<html>` タグが見えるのは正常）。**きれいなページとして見るにはローカルで開いてください。**
+
+```powershell
+git pull
+start out\index.html
+```
+
+Slack の `#golden-news` には要約本文が届く想定です（リンクだけに頼らない）。
+
 ## カレンダー
 
 - 自動: Fair Economy の Forex Factory 週次 XML（キー不要）

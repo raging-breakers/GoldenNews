@@ -49,9 +49,10 @@ Steps (do in order):
    - Title line: GoldenNews | {date JST}
    - Bias: direction + one-line reason (from brief.json bias)
    - Up to 3 short Japanese news bullets (from ai_summary_ja; truncate to ~80 chars each if long)
-   - Link: https://github.com/raging-breakers/GoldenNews/blob/main/out/index.html
+   - Note: 詳細ページはローカルで out/index.html を開く（git pull 後）。GitHub の blob URL は HTML ソース表示のみでページとしては見られない。
+   - Optional link (source only): https://github.com/raging-breakers/GoldenNews/blob/main/out/index.html
    - Footer: 個人用メモ。投資助言ではありません。
-   Keep the Slack message concise (under ~1500 characters).
+   Keep the Slack message concise (under ~1500 characters). Put the useful content IN Slack; do not rely on the GitHub link as a rendered page.
 
 If news is empty, still leave a valid brief, note that in Slack, and include the GitHub link.
 Do not add paid API keys. Do not change scoring thresholds unless broken.
@@ -74,6 +75,25 @@ Do not add paid API keys. Do not change scoring thresholds unless broken.
 3. Automation at https://cursor.com/automations
 4. Cloud Agents can access this GitHub repo
 5. Slack channel `#golden-news` + Send to Slack tool configured
+
+## Viewing the brief (important)
+
+GitHub **`/blob/.../index.html`** shows **HTML source code** (`<html>...`), not a rendered page. That is normal.
+
+| How to view | Works as a page? |
+|-------------|------------------|
+| Local `out\index.html` in a browser | Yes (recommended) |
+| GitHub blob URL | No (source only) |
+| GitHub Pages | Yes (needs public repo on Free, or Pro for private) |
+| Slack digest | Yes for summary text |
+
+**After Cloud runs:** `git pull` then open:
+
+```powershell
+cd c:\Users\hband\Cursor\GoldenNews
+git pull
+start out\index.html
+```
 
 ## Local check (without Cloud)
 
