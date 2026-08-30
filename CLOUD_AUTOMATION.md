@@ -17,17 +17,35 @@ Every morning:
 
 1. In Slack, create a **private** channel named **`golden-news`** (shows as `#golden-news`). Add only yourself.
 2. Connect Slack to Cursor: [Automations](https://cursor.com/automations) or [Cloud Agents dashboard](https://cursor.com/dashboard?tab=cloud-agents) → Slack.
-3. Invite / allow the Cursor bot into `#golden-news` if Slack asks (otherwise Send to Slack may fail).
+3. **Invite the Cursor bot into `#golden-news`** (required for private channels):
+   - Open `#golden-news` in Slack
+   - In the message box, type: `/invite @Cursor` and press Enter
+   - Or: channel name → **メンバーを追加** → **Cursor**（アプリ）を追加
 4. Edit your Automation:
    - **Repository:** `raging-breakers/GoldenNews` / `main`
-   - **Tools:** enable **Send to Slack** → destination **`#golden-news`**
-   - **Prompt:** replace with the block below
+   - **Tools:** enable **Send to Slack** → destination **`#golden-news`**（プロンプトに書くだけでは不十分。ツールでチャンネルを明示選択）
+   - **Prompt:** replace with the block below（先頭に Slack 必須の一文あり）
    - Save & keep Enabled
-5. Optional: **Run now** once and confirm a message appears in `#golden-news`.
+5. **Run now** once and confirm a message appears in `#golden-news`.
+
+## Slack が届かないとき
+
+| 確認 | 対処 |
+|------|------|
+| Automation は成功（`main` に commit がある） | ブリーフ生成はOK。Slack 設定を疑う |
+| Tools に **Send to Slack** が ON か | ON にして `#golden-news` を**固定選択**して Save |
+| private チャンネル | `/invite @Cursor` を `#golden-news` で実行 |
+| Cursor と Slack が同じワークスペースか | Automations で Slack Connect を再確認 |
+| Agent ログに `Send to Slack` があるか | 無い → プロンプト先頭の **MUST** 文を入れて再実行 |
+| メッセージはあるが通知だけ来ない | Slack アプリで `#golden-news` を直接開く（通知設定の問題のことも） |
+
+**Android 10 の端末:** Slack 公式アプリは非対応のことが多い。スマホブラウザで [slack.com](https://slack.com) から `#golden-news` を開く。
 
 ## Agent instructions (paste into Automation prompt)
 
 ```text
+IMPORTANT: You MUST use the Send to Slack tool to post to #golden-news before finishing. Do not mark the run complete without a successful Slack post.
+
 You are updating the GoldenNews morning brief in this repository.
 
 Steps (do in order):
@@ -86,6 +104,7 @@ GitHub **`/blob/.../index.html`** shows **HTML source code** (`<html>...`), not 
 | GitHub blob URL | No (source only) |
 | GitHub Pages | Yes (needs public repo on Free, or Pro for private) |
 | Slack digest | Yes for summary text |
+| Slack mobile app | Android 11+（Android 10 はブラウザ版 slack.com を利用） |
 
 **After Cloud runs:** `git pull` then open:
 

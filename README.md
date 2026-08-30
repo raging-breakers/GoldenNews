@@ -50,7 +50,23 @@ git pull
 start out\index.html
 ```
 
-Slack の `#golden-news` には要約本文が届く想定です（リンクだけに頼らない）。
+Slack の `#golden-news` には要約本文が届く想定です（リンクだけに頼らない）。詳細は [CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md) の Slack セクションを参照。
+
+## 毎朝の見方（おすすめ）
+
+1. **Slack `#golden-news`** … バイアスとニュース要約（本文で読む）
+2. 詳しく見たいとき … PC で `git pull` → `start out\index.html`
+
+```powershell
+git pull
+start out\index.html
+```
+
+## スマホで Slack を見る場合
+
+- Slack 公式アプリは **Android 11 以上** が要件（[公式ヘルプ](https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack)）
+- **Android 10** の端末ではアプリが使えないことがある → **スマホブラウザで [slack.com](https://slack.com)** にログインして `#golden-news` を開く
+- PC 版 Slack でも同じチャンネルが見られます
 
 ## カレンダー
 
