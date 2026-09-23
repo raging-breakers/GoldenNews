@@ -34,7 +34,7 @@ Steps (do in order):
 7. Commit out/brief.json, out/index.html, index.html (and archive HTML if present) with message:
    "chore: morning brief with AI news summaries"
 8. Push to the default branch (main) if a remote is configured. Prefer direct push to main; use a PR only if push is blocked.
-9. Do NOT post to Slack. Viewing is via GitHub Pages:
+9. Viewing is via GitHub Pages:
    https://raging-breakers.github.io/GoldenNews/
 
 If news is empty, still leave a valid brief and push so Pages stays up to date.
