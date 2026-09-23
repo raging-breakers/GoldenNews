@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-24T07:25:47+09:00",
+  "generated_at": "2026-09-24T07:30:09+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4322.5,
+      "last": 4322.10009765625,
       "prev": 4376.39990234375,
-      "change": -53.89990234375,
-      "change_pct": -1.231603682170002,
+      "change": -54.2998046875,
+      "change_pct": -1.240741383309604,
       "ok": true,
       "error": null
     },
@@ -111,7 +111,7 @@
       "source": "Yahoo GC=F",
       "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
       "published": "2026-09-23T22:15:05+00:00",
-      "ai_summary_ja": "Yahoo Financeは、金鉱会社AngloGold Ashanti（AU）の株価が直近の取引日に98.74ドルで終値し、前取引日比5.6%下落したと報じた。同記事は同社が広範な市場全体より大きく下落した理由を分析している。タイトルは「Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market」。GC=F関連のYahoo Finance RSS経由で配信されたもの。"
+      "ai_summary_ja": "Yahoo Financeによると、金鉱企業AngloGold Ashanti（AU）は直近の取引日に前日比5.6%下落し、終値98.74ドルで取引を終えた。記事タイトルは「Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market」で、同社株が広範な市場全体の下落幅を上回った背景を説明する内容。金関連ニュースとしてYahoo FinanceのGC=Fフィード経由で配信されている。"
     },
     {
       "id": "82f2e34a2e20",
@@ -120,7 +120,7 @@
       "source": "Google News (gold)",
       "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $4300 As Traders Bet On Hawkish Fed &nbsp;&nbsp; FXEmpire",
       "published": "2026-09-23T21:45:34+00:00",
-      "ai_summary_ja": "FXEmpireは金（XAUUSD）・銀・プラチナの相場見通しを報じ、金価格が4300ドルを下回ったと伝えた。投資家が米連邦準備制度（FRB）のタカ派姿勢を意識しているとの見方が示されている。タイトルは「Gold Drops Below $4300 As Traders Bet On Hawkish Fed」。貴金属3銘柄の動向をまとめた分析記事として、Googleニュース（金関連）経由で配信されている。"
+      "ai_summary_ja": "FXEmpireは金（XAUUSD）・銀・プラチナの相場見通しを報じ、金価格が4300ドルを下回ったと伝えた。タイトルは「Gold Drops Below $4300 As Traders Bet On Hawkish Fed」で、投資家が米連邦準備制度（FRB）のタカ派姿勢を意識しているとの見方が示されている。貴金属3銘柄の動向をまとめた分析記事として、Googleニュース（金関連）経由で配信されている。"
     },
     {
       "id": "71028574eca8",
@@ -129,7 +129,7 @@
       "source": "Yahoo GC=F",
       "summary": "New Pacific Metals (TSX:NUAG) has drawn fresh attention after a strong past year, with total return of 164.1%. The stock last closed at CA$9.72, giving the silver and gold explorer a market value near CA$1.67b. Momentum around New Pacific Metals has been strong, with a 1-day shar",
       "published": "2026-09-23T21:20:02+00:00",
-      "ai_summary_ja": "Yahoo Financeによると、銀・金探査企業New Pacific Metals（TSX:NUAG）が過去1年で164.1%のトータルリターンを記録し、再び注目を集めている。終値はカナダドル9.72ドルで時価総額は約16.7億カナダドル。1日足のモメンタムも強いとの記述があり、株価上昇に伴いバリュエーション（企業価値評価）が議論の焦点に戻ったと報じている。GC=F関連のYahoo Finance RSS経由で配信。"
+      "ai_summary_ja": "Yahoo Financeによると、銀・金探査企業New Pacific Metals（TSX:NUAG）が過去1年で164.1%のトータルリターンを記録し、再び注目を集めている。終値はカナダドル9.72ドルで時価総額は約16.7億カナダドル。1日足のモメンタムも強いとの記述があり、株価上昇に伴いバリュエーション（企業価値評価）が議論の焦点に戻ったと報じている。"
     },
     {
       "id": "db42b94b725a",
@@ -138,7 +138,7 @@
       "source": "Google News (gold)",
       "summary": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal &nbsp;&nbsp; FXEmpire",
       "published": "2026-09-23T21:03:31+00:00",
-      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Pullback Tests Key Support Before Bullish Reversal」と題し、金相場の押し目局面が重要な支持線を試している状況を報じた。調整局面の後に強気反転の可能性に言及する内容で、具体的な価格目標や時期の詳細は概要からは限定的。Googleニュース（金関連）経由で配信されている分析記事であり、直近の金価格動向を技術面から整理している。"
+      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Pullback Tests Key Support Before Bullish Reversal」と題し、金相場の押し目局面が重要な支持線を試している状況を報じた。調整局面の後に強気反転の可能性に言及する内容で、具体的な価格目標や時期の詳細は概要からは限定的。Googleニュース（金関連）経由で配信されている分析記事である。"
     },
     {
       "id": "78828ecafde3",
@@ -147,7 +147,7 @@
       "source": "Google News (gold)",
       "summary": "Gold price nears one-month low on hawkish Fed signals &nbsp;&nbsp; Mining.com.au",
       "published": "2026-09-23T21:00:00+00:00",
-      "ai_summary_ja": "Mining.com.auは、米連邦準備制度（FRB）のタカ派的なシグナルを受け、金価格が約1か月ぶりの安値圏に接近したと報じた。タイトルは「Gold price nears one-month low on hawkish Fed signals」。中央銀行の政策姿勢が貴金属相場に与える影響を取り上げ、直近の金価格低下の背景としてFRB関連の材料を示している。Googleニュース（金関連）経由で配信された記事である。"
+      "ai_summary_ja": "Mining.com.auは、米連邦準備制度（FRB）のタカ派的なシグナルを受け、金価格が約1か月ぶりの安値圏に接近したと報じた。タイトルは「Gold price nears one-month low on hawkish Fed signals」。中央銀行の政策姿勢が貴金属相場に与える影響を取り上げ、直近の金価格低下の背景としてFRB関連の材料を示している。"
     }
   ],
   "bias": {
