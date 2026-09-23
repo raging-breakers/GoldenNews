@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-30T10:28:05+09:00",
+  "generated_at": "2026-09-24T06:53:31+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4478.10009765625,
-      "prev": 4609.7001953125,
-      "change": -131.60009765625,
-      "change_pct": -2.8548515539052013,
+      "last": 4322.7001953125,
+      "prev": 4376.39990234375,
+      "change": -53.69970703125,
+      "change_pct": -1.2270292530280769,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 99.69999694824219,
-      "prev": 99.16000366210938,
-      "change": 0.5399932861328125,
-      "change_pct": 0.5445676343184248,
+      "last": 101.09700012207031,
+      "prev": 100.43000030517578,
+      "change": 0.6669998168945312,
+      "change_pct": 0.6641439956862737,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 4.71999979019165,
-      "prev": 4.671999931335449,
-      "change": 0.04799985885620117,
-      "change_pct": 1.0273942543162848,
+      "last": 5.113999843597412,
+      "prev": 4.9629998207092285,
+      "change": 0.1510000228881836,
+      "change_pct": 3.042515179188647,
       "ok": true,
       "error": null
     }
@@ -35,87 +35,140 @@
   "calendar_view": {
     "today": [
       {
-        "id": "2026-08-30-all-jackson-hole-symposium",
-        "date": "2026-08-30",
-        "time_jst": "01:15",
-        "name": "Jackson Hole Symposium",
-        "country": "All",
+        "id": "2026-09-24-aud-unemployment-rate",
+        "date": "2026-09-24",
+        "time_jst": "10:30",
+        "name": "Unemployment Rate",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "雇用・ドル材料",
+        "source": "faireconomy",
+        "forecast": "4.5%",
+        "previous": "4.5%"
+      },
+      {
+        "id": "2026-09-24-cad-core-retail-sales-m-m",
+        "date": "2026-09-24",
+        "time_jst": "21:30",
+        "name": "Core Retail Sales m/m",
+        "country": "CAD",
+        "impact": "medium",
+        "gold_relevance": "medium",
+        "note": "景気材料",
+        "source": "faireconomy",
+        "forecast": "-0.5%",
+        "previous": "0.5%"
+      },
+      {
+        "id": "2026-09-24-cad-retail-sales-m-m",
+        "date": "2026-09-24",
+        "time_jst": "21:30",
+        "name": "Retail Sales m/m",
+        "country": "CAD",
+        "impact": "medium",
+        "gold_relevance": "medium",
+        "note": "景気材料",
+        "source": "faireconomy",
+        "forecast": "-0.8%",
+        "previous": "0.6%"
+      },
+      {
+        "id": "2026-09-24-usd-unemployment-claims",
+        "date": "2026-09-24",
+        "time_jst": "21:30",
+        "name": "Unemployment Claims",
+        "country": "USD",
         "impact": "medium",
         "gold_relevance": "high",
-        "note": "主要中銀シンポジウム。ボラ注意",
+        "note": "雇用・ドル材料",
         "source": "faireconomy",
-        "forecast": "",
-        "previous": ""
+        "forecast": "201K",
+        "previous": "196K"
       }
     ],
-    "week": []
+    "week": [
+      {
+        "id": "2026-09-24-aud-unemployment-rate",
+        "date": "2026-09-24",
+        "time_jst": "10:30",
+        "name": "Unemployment Rate",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "雇用・ドル材料",
+        "source": "faireconomy",
+        "forecast": "4.5%",
+        "previous": "4.5%"
+      }
+    ]
   },
   "news": [
     {
-      "id": "23422d6dbff0",
-      "title": "OANDA:XAUUSD Chart Image by Olisa_9 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LcVpGTWwzSzlQbE1yNU0xQlRIa2s3VlluSjJVWWNyWURrcEtib05vRGR1YVVNRl9QczFmcXRPTWMyOWlSa2NJY3JWRWNIcTA?oc=5",
+      "id": "82f2e34a2e20",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $4300 As Traders Bet On Hawkish Fed - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjBFa09FR0F0a2x2dWFIbjFDaTJLa3JlUDNsbG5kVXR5OWxXQU9BVkRmYlNxejBac01iWVBzZkxmclNCUHRrRS1INVktYldSUkZDSWJEbnFtN1A2MWxGOUMxeGdyc1VvUUF1djBDRzd2QnJ3WE4zaFZUWV9VNzBZUXNfR1JhdGF2SUZwa2ppcEthNDhnVnpJbDNLN0FXNUthR1lGNXVFVlpzNURBWjlheF9nZ3NUT19WTzhJOFdGRlMtSGJTS1J5U1NYbC1LY1ZrckF0RmJDdw?oc=5",
       "source": "Google News (gold)",
-      "summary": "OANDA:XAUUSD Chart Image by Olisa_9 &nbsp;&nbsp; TradingView",
-      "published": "2026-08-29T22:26:07+00:00",
-      "ai_summary_ja": "TradingView上で、ユーザーOlisa_9がOANDAのXAUUSD（金対米ドル）のチャート画像を公開したことが、Googleニュース（金関連）経由で取り上げられている。記事タイトルは「OANDA:XAUUSD Chart Image by Olisa_9」で、情報源はTradingView。内容はチャート画像の共有に関するものであり、具体的な相場分析や数値予測は示されていない。個人投資家によるチャート投稿がニュースフィードに載った事例として報じられている。"
+      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $4300 As Traders Bet On Hawkish Fed &nbsp;&nbsp; FXEmpire",
+      "published": "2026-09-23T21:45:34+00:00",
+      "ai_summary_ja": null
     },
     {
-      "id": "e69b09cf791a",
-      "title": "Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBON0h5bGRSR0E3enlaeVlvdjBCeXdrNTVXcEY0ZEJwMXpSTERwSUlhSkl2RVdPaUdjRTJxMjVLLUZBaDZzeGZaUS1pLWlTNXF6WmE1QXpudURZbmtZbHl0TWZqUXpKYnl0TVFfTG11Y192M3R2M0RnSkp5dUdlbkhqMVEtanVLajRMdDNnd1dtdDNMSW5melB2V1pEZ0x2b3R5LVlUZGlvV3phODZhX081MmZNLVJHNmFTOEE0RTk2ZUpfN0lRel8zM2pFUlliWVZfUi1nd0FKeDF3M1E?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather &nbsp;&nbsp; AD HOC NEWS",
-      "published": "2026-08-29T18:02:10+00:00",
-      "ai_summary_ja": "AD HOC NEWSによると、金鉱山企業がロイヤルティ（権利使用料）負担の増加により圧迫を受けている一方、金価格の上昇ラリーは一時的に足踏みしているという。記事タイトルは「Gold Miners Feel the Squeeze as Royalty Bills Surge While Bullion's Rally Takes a Breather」。金鉱山セクターにおけるコスト面の圧力と、地金（ブリオン）相場の動きが同時に報じられている内容である。"
+      "id": "71028574eca8",
+      "title": "New Pacific Metals (TSX:NUAG) Rally Puts Its Rich Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pacific-metals-tsx-nuag-rally-212002221.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "New Pacific Metals (TSX:NUAG) has drawn fresh attention after a strong past year, with total return of 164.1%. The stock last closed at CA$9.72, giving the silver and gold explorer a market value near CA$1.67b. Momentum around New Pacific Metals has been strong, with a 1-day shar",
+      "published": "2026-09-23T21:20:02+00:00",
+      "ai_summary_ja": null
     },
     {
-      "id": "63dfbe7d3297",
-      "title": "Bullion Cues: Upturn Projected - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlREb19RYmpQZTFiZ3VucFI0Mk1fZnoyR2JEek9VR3JtcXVNcV9ybkM3QUdXUkVLeXY0Y2JabXVMVUtFTDA5bFFNNGFhcXliRTZKb2ZRUW96SkRqZTc3UkphZ1BRTEZNTmhaaE8xY2VoU3BIT3BoUjB1UGJVRmNfZC16bVRkc2k4TGVjLWtTQUNYVTVHbVFfU0o5N2xlX2lOQmZCcEttWWw5Z205YUk2LXhueUhWUdIBvAFBVV95cUxOcWZMSWtqb2loNDlUNGF3QWxyYWEzS1o1cmF3UFlycVRkdU5pQnJFZ054VjVUNDl3QkxETHNjUXMyUHpqOXV0U1ZERDRXVmdoczFUNVZxTjZVTV9fZy1qVlBmUmFVTHdEVkwxQnpnSmVheFZNbXdlbnpGbjdUMXIzY1lqcDJXMXhFSzlMamtvdVJBNkVlRnBjUVdjR3dZVi1tMXc1NEt0MF9uNjlCOGVIeEVDbVFCQzZST2ljNw?oc=5",
+      "id": "db42b94b725a",
+      "title": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1hQU1lJcmZiZl9aQ0NEdHhfd000ZDQ1T2xnY2xQMU82MjAtb0RQbFhIeVNFbFo0SDR4ZjN3bDZoSnltVkhrMG1GcTFyeGl0NjZGYzEzS3cyZzN3MHZpX1NacEprR1l5dUFsVnhpaEtFQzE2SllkbmM5S040QnhSd3pBWDB0aTVsRS1kT1k0WVZHcWdqeWN2LTJmY0tWR05WdHdBa2VSbUFZcE5Da1QxS0dOdG1xNE1rckttNQ?oc=5",
       "source": "Google News (gold)",
-      "summary": "Bullion Cues: Upturn Projected &nbsp;&nbsp; BusinessLine",
-      "published": "2026-08-29T15:57:54+00:00",
-      "ai_summary_ja": "BusinessLineは「Bullion Cues: Upturn Projected」と題し、地金相場の上向きが見込まれるとの見方を報じている。記事は金（ブリオン）相場の方向感に関する示唆を取り上げたもので、具体的な価格水準や時期についての詳細はタイトル・概要からは読み取れない。BusinessLine経由でGoogleニュース（金関連）に掲載された。記事は地金相場の動向に関する一般的な見通しを提示する内容として紹介されている。"
+      "summary": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal &nbsp;&nbsp; FXEmpire",
+      "published": "2026-09-23T21:03:31+00:00",
+      "ai_summary_ja": null
     },
     {
-      "id": "b429c0cda847",
-      "title": "Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call - Exchange Rates Org UK",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTc3STBsb1k0YXBodTRtc2pmNWQ1LS1vUl9HdzJpTS15R0xZaXFxN2dZc2NZZ29PcV9qUm1qaDNfdnU5anRqRVNOQ2pGbVJzbkhCUEZyRmRtcmZUdjRsdFc3c3lXZFF0T0k5bldIcUlIUWMzaGlGNGpMQm1ZVWlwM1k3MWM3N3VrV0VTTUdVMzV0Y19kY25DemJYNmNfeEx5VUdtTnlJLWRfenZkZ0x1dUphZjgzSkFyaVNpM1Y0czlYdzBzcjRJNTg4Tm5CdzJzWEJV?oc=5",
+      "id": "78828ecafde3",
+      "title": "Gold price nears one-month low on hawkish Fed signals - Mining.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEo5Ml9wdDg2R0hSM0o0MEE4UEdTSmRlLXhsSzRvcTBWTkx3S2VZdks3MkVuSEh0R0ZZbURNc3k4LXk3ckxRUThOekoweVhGa1BJZEZhZUtfY1YwSHNjdVBDMDlIaHVnT3NHT2pqZHp3b1RLQnNuTlRJaFpmZnRhQnhn?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call &nbsp;&nbsp; Exchange Rates Org UK",
-      "published": "2026-08-29T15:49:00+00:00",
-      "ai_summary_ja": "Exchange Rates Org UKは、金価格の予測に関する記事を掲載した。タイトルは「Gold Price Forecast, Prediction: Warsh Selloff Tests Credit Agricole $5,000 Call」で、ウォーシュ氏関連の売り圧力が、クレディ・アグリコルが示した5,000ドル目標の見方を試す状況であると報じている。記事は外部機関の価格見通しと直近の値動きを取り上げた分析記事として紹介されている。"
+      "summary": "Gold price nears one-month low on hawkish Fed signals &nbsp;&nbsp; Mining.com.au",
+      "published": "2026-09-23T21:00:00+00:00",
+      "ai_summary_ja": null
     },
     {
-      "id": "3abb76cb3057",
-      "title": "Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnMyN1FSQS1WUHJtNzVCcVRpSEFxdUNYUlZ2NHZmZmxzNkNYaEt0R0h5cnl0dnRDTG9wQTZNQTNZU1RTZnB5TUt4U3dSTGlCN1hKVkNPN25NVm44MkhkdDV2WGVHWG9mdmpEeDhYQTVmYTJrbEI3VkIyMlYxV2RVazZuYnBXZjE3eWIzcG5lRmVHVjVxMjJzemtEdGV4dUNWWEVFWExRVy1aRTNzelhhRUpBTXZWV3I5ZkZIVmZaNnlkZ9IBxwFBVV95cUxPbzdoN3JRVjRudGljUTI0M0l6QnpQNHZPd2RHb2VtMjA2eUlGT042WERCNVFrYXY2Q09LSWJsWWJ4MGFSTnRwcnUwRlVGT2JHQkljMU0wbzI0YmNMY2dYWXQ5ZzlfUUFQNnVKZDQ3NUdzN29KZi1BQS1pMzhwUFRXcGRxSDBLTGZHbm14TDBUVENMcmY1TVNHNTBHZkMzc20yXzlKZGc0QjU2YjlQOXd4VnpCX0pqNkVrLUR3cWFQX2ZXUktfaXpN?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion &nbsp;&nbsp; simplywall.st",
-      "published": "2026-08-29T15:47:44+00:00",
-      "ai_summary_ja": "simplywall.stによる記事「Gold Stocks Retail Investors Are Buying As Central Banks Keep Adding Bullion」は、中央銀行が地金の購入を続ける中、個人投資家が金関連株を買い集めている動きを取り上げている。地金需要の公的セクター側の動向と、小売投資家の金株への関心が同時に報じられている内容である。Googleニュース（金関連）経由で配信された。"
+      "id": "c132963eaf9b",
+      "title": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move",
+      "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set a new high Tuesday. Micron and Sandisk drop.",
+      "published": "2026-09-23T20:59:57+00:00",
+      "ai_summary_ja": null
     }
   ],
   "bias": {
     "direction": "弱気寄り",
-    "total": -3,
+    "total": -4,
     "factors": {
       "gold": -1,
       "dxy": -1,
       "us10y": -1,
-      "news": 0
+      "news": -1
     },
     "reasons": [
       "金の前日比がマイナス",
       "ドル指数が強い"
     ],
-    "caution": "01:15 Jackson Hole Symposium。主要中銀シンポジウム。ボラ注意",
+    "caution": "10:30 Unemployment Rate。雇用・ドル材料",
     "news_counts": {
       "bull": 0,
-      "bear": 0
+      "bear": 2
     },
     "data_insufficient": false
   },
-  "ai_summaries_ready": true
+  "ai_summaries_ready": false
 }

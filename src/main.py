@@ -95,7 +95,10 @@ def write_brief_and_html(brief: dict, out_dir: Path, archive_dir: Path) -> Path:
     )
     day = datetime.fromisoformat(brief["generated_at"]).strftime("%Y-%m-%d")
     html = render_brief_dict(brief)
-    return write_outputs(html, out_dir, archive_dir, day)
+    out_path = write_outputs(html, out_dir, archive_dir, day)
+    # GitHub Pages serves from repo root
+    (ROOT / "index.html").write_text(html, encoding="utf-8")
+    return out_path
 
 
 def main() -> int:

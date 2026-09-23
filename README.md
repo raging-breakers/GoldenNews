@@ -3,6 +3,8 @@
 自分用の GOLD（XAU）朝イチまとめページ。  
 取得は無料（Yahoo + RSS + 経済カレンダー）。**ニュースの日本語要約は Cursor Cloud Automation（Pro）**。
 
+**公開ページ:** https://raging-breakers.github.io/GoldenNews/
+
 ## できること
 
 - 金 / DXY / 米10年の前日比を取得
@@ -10,8 +12,7 @@
 - 経済カレンダー自動取得（USD High 中心）
 - ルールベースの簡易バイアス
 - ニュース欄の **AI日本語要約**（Cloud が `brief.json` を埋めて再描画）
-- 毎朝 **Slack `#golden-news`** へダイジェスト通知（Cloud Automation）
-- `out/index.html` に1ページ出力
+- `out/index.html` とルート `index.html`（GitHub Pages）に1ページ出力
 
 ## セットアップ
 
@@ -28,7 +29,7 @@ pip install -r requirements.txt
 .\.venv\Scripts\python.exe -m src.main
 ```
 
-`out/brief.json` と `out/index.html` ができます。ニュースは「AI要約待ち」表示になります。
+`out/brief.json`・`out/index.html`・ルート `index.html` ができます。ニュースは「AI要約待ち」表示になります。
 
 ## AI要約の反映（Cloud または手動）
 
@@ -39,34 +40,25 @@ pip install -r requirements.txt
 .\.venv\Scripts\python.exe -m src.render_brief
 ```
 
-Cloud の手順・Automation 用プロンプト・Slack（`#golden-news`）は **[CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md)** を参照。
+Cloud の手順・Automation 用プロンプトは **[CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md)** を参照。
 
 ## ページの見方
 
-GitHub の `blob/.../index.html` は **HTMLのソース** が表示されます（`<html>` タグが見えるのは正常）。**きれいなページとして見るにはローカルで開いてください。**
+| 方法 | 説明 |
+|------|------|
+| [GitHub Pages](https://raging-breakers.github.io/GoldenNews/) | スマホ・PC ともおすすめ |
+| ローカル | `git pull` 後に `start index.html` |
+| GitHub の blob URL | HTMLソース表示のみ（ページとしては見られない） |
 
 ```powershell
 git pull
-start out\index.html
+start index.html
 ```
-
-Slack の `#golden-news` には要約本文が届く想定です（リンクだけに頼らない）。詳細は [CLOUD_AUTOMATION.md](CLOUD_AUTOMATION.md) の Slack セクションを参照。
 
 ## 毎朝の見方（おすすめ）
 
-1. **Slack `#golden-news`** … バイアスとニュース要約（本文で読む）
-2. 詳しく見たいとき … PC で `git pull` → `start out\index.html`
-
-```powershell
-git pull
-start out\index.html
-```
-
-## スマホで Slack を見る場合
-
-- Slack 公式アプリは **Android 11 以上** が要件（[公式ヘルプ](https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack)）
-- **Android 10** の端末ではアプリが使えないことがある → **スマホブラウザで [slack.com](https://slack.com)** にログインして `#golden-news` を開く
-- PC 版 Slack でも同じチャンネルが見られます
+1. **https://raging-breakers.github.io/GoldenNews/** を開く（ブックマーク推奨）
+2. ローカルで触るとき … `git pull` → `start index.html`
 
 ## カレンダー
 
@@ -86,4 +78,4 @@ start out\index.html
 
 ## 注意
 
-個人用メモです。投資助言ではありません。無料ソースは遅延・欠損があり得ます。Cloud 要約は Pro のクラウドエージェント枠を消費します。
+個人用メモです。投資助言ではありません。無料ソースは遅延・欠損があり得ます。Cloud 要約は Pro のクラウドエージェント枠を消費します。リポは Public のため、ブリーフ内容は誰でも閲覧できます。
