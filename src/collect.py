@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import re
 from datetime import datetime, timedelta, timezone
 from typing import Any
@@ -13,6 +14,14 @@ import requests
 
 YAHOO_CHART = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
 USER_AGENT = "GoldenNews/0.1 (personal morning brief)"
+
+
+def _strip_html_text(raw: str) -> str:
+    """Remove tags and decode entities so &nbsp; etc. never show as literal text."""
+    text = re.sub(r"<[^>]+>", " ", raw)
+    text = html.unescape(text)
+    text = text.replace("\xa0", " ")
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def _session() -> requests.Session:
@@ -98,11 +107,11 @@ def collect_news(
             continue
 
         for entry in parsed.entries:
-            title = (entry.get("title") or "").strip()
+            title = _strip_html_text(entry.get("title") or "")
             link = (entry.get("link") or "").strip()
-            summary = (entry.get("summary") or entry.get("description") or "").strip()
-            summary = re.sub(r"<[^>]+>", " ", summary)
-            summary = re.sub(r"\s+", " ", summary).strip()
+            summary = _strip_html_text(
+                entry.get("summary") or entry.get("description") or ""
+            )
             if not title:
                 continue
             blob = f"{title} {summary}".lower()

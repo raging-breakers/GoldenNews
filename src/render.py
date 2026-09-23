@@ -9,7 +9,10 @@ from typing import Any
 
 
 def _esc(v: Any) -> str:
-    return html.escape("" if v is None else str(v), quote=True)
+    # Unescape first so leftover entities like &nbsp; become real spaces,
+    # then escape for safe HTML (avoids showing "&nbsp;" as literal text).
+    text = html.unescape("" if v is None else str(v)).replace("\xa0", " ")
+    return html.escape(text, quote=True)
 
 
 def _fmt_num(v: float | None, digits: int = 2) -> str:
