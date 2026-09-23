@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-24T06:53:31+09:00",
+  "generated_at": "2026-09-24T07:12:34+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4322.7001953125,
+      "last": 4325.7001953125,
       "prev": 4376.39990234375,
-      "change": -53.69970703125,
-      "change_pct": -1.2270292530280769,
+      "change": -50.69970703125,
+      "change_pct": -1.15847975876469,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.09700012207031,
+      "last": 101.11499786376953,
       "prev": 100.43000030517578,
-      "change": 0.6669998168945312,
-      "change_pct": 0.6641439956862737,
+      "change": 0.68499755859375,
+      "change_pct": 0.6820646783951546,
       "ok": true,
       "error": null
     },
@@ -111,7 +111,7 @@
       "source": "Google News (gold)",
       "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $4300 As Traders Bet On Hawkish Fed &nbsp;&nbsp; FXEmpire",
       "published": "2026-09-23T21:45:34+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "FXEmpireは金（XAUUSD）・銀・プラチナの相場見通しを報じ、金価格が4300ドルを下回ったと伝えた。タイトルは「Gold Drops Below $4300 As Traders Bet On Hawkish Fed」で、投資家が米連邦準備制度（FRB）のタカ派姿勢を意識しているとの見方が示されている。貴金属3銘柄の動向をまとめた分析記事として、Googleニュース（金関連）経由で配信されている。"
     },
     {
       "id": "71028574eca8",
@@ -120,7 +120,7 @@
       "source": "Yahoo GC=F",
       "summary": "New Pacific Metals (TSX:NUAG) has drawn fresh attention after a strong past year, with total return of 164.1%. The stock last closed at CA$9.72, giving the silver and gold explorer a market value near CA$1.67b. Momentum around New Pacific Metals has been strong, with a 1-day shar",
       "published": "2026-09-23T21:20:02+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "Yahoo Financeによると、銀・金探査企業New Pacific Metals（TSX:NUAG）が過去1年で164.1%のトータルリターンを記録し、再び注目を集めている。終値はカナダドル9.72ドルで時価総額は約16.7億カナダドル。1日足のモメンタムも強いとの記述があり、株価上昇に伴いバリュエーション（企業価値評価）が議論の焦点に戻ったと報じている。"
     },
     {
       "id": "db42b94b725a",
@@ -129,7 +129,7 @@
       "source": "Google News (gold)",
       "summary": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal &nbsp;&nbsp; FXEmpire",
       "published": "2026-09-23T21:03:31+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Pullback Tests Key Support Before Bullish Reversal」と題し、金相場の押し目局面が重要な支持線を試している状況を報じた。調整局面の後に強気反転の可能性に言及する内容で、具体的な価格目標や時期の詳細は概要からは限定的。Googleニュース（金関連）経由で配信されている分析記事である。"
     },
     {
       "id": "78828ecafde3",
@@ -138,7 +138,7 @@
       "source": "Google News (gold)",
       "summary": "Gold price nears one-month low on hawkish Fed signals &nbsp;&nbsp; Mining.com.au",
       "published": "2026-09-23T21:00:00+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "Mining.com.auは、米連邦準備制度（FRB）のタカ派的なシグナルを受け、金価格が約1か月ぶりの安値圏に接近したと報じた。タイトルは「Gold price nears one-month low on hawkish Fed signals」。中央銀行の政策姿勢が貴金属相場に与える影響を取り上げ、直近の金価格低下の背景としてFRB関連の材料を示している。"
     },
     {
       "id": "c132963eaf9b",
@@ -147,7 +147,7 @@
       "source": "Yahoo GC=F",
       "summary": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set a new high Tuesday. Micron and Sandisk drop.",
       "published": "2026-09-23T20:59:57+00:00",
-      "ai_summary_ja": null
+      "ai_summary_ja": "Yahoo Financeの「Stock Market Today」は、ナスダックが前日に高値圏を付けた後、水曜日のダウ平均が下落したと伝えた。小型株や金鉱株も売り場に含まれ、MicronとSandiskの株価下落にも言及。Meta（メタ）の強気な動きも同時に報じられている。広範な株式市場の調整局面の中で、金鉱セクターも押し目を受けたと描写されている。"
     }
   ],
   "bias": {
@@ -170,5 +170,5 @@
     },
     "data_insufficient": false
   },
-  "ai_summaries_ready": false
+  "ai_summaries_ready": true
 }
