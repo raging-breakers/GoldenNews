@@ -1,169 +1,102 @@
 {
-  "generated_at": "2026-09-24T09:01:14+09:00",
+  "generated_at": "2026-09-25T09:02:46+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4325.2001953125,
-      "prev": 4376.39990234375,
-      "change": -51.19970703125,
-      "change_pct": -1.1699046744752544,
+      "last": 4305.2001953125,
+      "prev": 4318.39990234375,
+      "change": -13.19970703125,
+      "change_pct": -0.3056619889252509,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.13400268554688,
-      "prev": 100.43000030517578,
-      "change": 0.7040023803710938,
-      "change_pct": 0.7009881292759611,
+      "last": 101.26699829101562,
+      "prev": 101.0999984741211,
+      "change": 0.16699981689453125,
+      "change_pct": 0.16518280852128672,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 5.113999843597412,
-      "prev": 4.9629998207092285,
-      "change": 0.1510000228881836,
-      "change_pct": 3.042515179188647,
+      "last": 5.161999702453613,
+      "prev": 5.113999843597412,
+      "change": 0.04799985885620117,
+      "change_pct": 0.9385971905395282,
       "ok": true,
       "error": null
     }
   },
   "calendar_view": {
-    "today": [
-      {
-        "id": "2026-09-24-aud-unemployment-rate",
-        "date": "2026-09-24",
-        "time_jst": "10:30",
-        "name": "Unemployment Rate",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "雇用・ドル材料",
-        "source": "faireconomy",
-        "forecast": "4.5%",
-        "previous": "4.5%"
-      },
-      {
-        "id": "2026-09-24-cad-core-retail-sales-m-m",
-        "date": "2026-09-24",
-        "time_jst": "21:30",
-        "name": "Core Retail Sales m/m",
-        "country": "CAD",
-        "impact": "medium",
-        "gold_relevance": "medium",
-        "note": "景気材料",
-        "source": "faireconomy",
-        "forecast": "-0.5%",
-        "previous": "0.5%"
-      },
-      {
-        "id": "2026-09-24-cad-retail-sales-m-m",
-        "date": "2026-09-24",
-        "time_jst": "21:30",
-        "name": "Retail Sales m/m",
-        "country": "CAD",
-        "impact": "medium",
-        "gold_relevance": "medium",
-        "note": "景気材料",
-        "source": "faireconomy",
-        "forecast": "-0.8%",
-        "previous": "0.6%"
-      },
-      {
-        "id": "2026-09-24-usd-unemployment-claims",
-        "date": "2026-09-24",
-        "time_jst": "21:30",
-        "name": "Unemployment Claims",
-        "country": "USD",
-        "impact": "medium",
-        "gold_relevance": "high",
-        "note": "雇用・ドル材料",
-        "source": "faireconomy",
-        "forecast": "201K",
-        "previous": "196K"
-      }
-    ],
-    "week": [
-      {
-        "id": "2026-09-24-aud-unemployment-rate",
-        "date": "2026-09-24",
-        "time_jst": "10:30",
-        "name": "Unemployment Rate",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "雇用・ドル材料",
-        "source": "faireconomy",
-        "forecast": "4.5%",
-        "previous": "4.5%"
-      }
-    ]
+    "today": [],
+    "week": []
   },
   "news": [
     {
-      "id": "0c79502c6b17",
-      "title": "How Smart Money Moves: Liquidity Sweep → MSS → FVG → Expansion for OANDA:XAUUSD by BerlinFxInsights - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmhMUTQyM2d6SjR1M1JPaGtEZkpfNmRZYktTWjZRbDV0QlMwZmxncHloaDFXakdsd1RhdWpKa09lR3N6aUpKeEI3eHVnU3V0U0dCeFZrcGRJSlVlSG1lYXpqa2tNbVNaNFowaWU2SzVfSjZHVENUT2hxUWE3MzNIOWhDWmNRRE04QjJfWW92UkZLcmhWcTJlSWhFcno0Q0tnaW80WmtWTzJmUQ?oc=5",
-      "source": "Google News (gold)",
-      "summary": "How Smart Money Moves: Liquidity Sweep → MSS → FVG → Expansion for OANDA:XAUUSD by BerlinFxInsights TradingView",
-      "published": "2026-09-23T23:16:27+00:00",
-      "ai_summary_ja": "TradingView上のBerlinFxInsightsによるOANDA:XAUUSD（金）の分析記事。「How Smart Money Moves: Liquidity Sweep → MSS → FVG → Expansion」と題し、流動性スイープから市場構造変化、フェアバリューギャップ、拡大局面までのテクニカル分析を解説している。Googleニュース（金関連）経由で配信。記事は短期トレード手法の解説であり、具体的な価格予測は概要からは限定的。"
-    },
-    {
-      "id": "0667de344043",
-      "title": "Gold price update morning of September 24th: Shocking reduction, should buy or sell - news.laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE05eVlBMjVIVTVDcjZENFlTRnI0T3JDdzBwYlg4QjdRRjB4aGZfRW1rRTFHYU5oRkFGTGVJeTZkaVhEMUJ4Z0dVek83dzhFYUxvWUN5cEt4TEFsVkEycEZFdGhhdkhXS2ZpTUg0dEpsZ3dwSnpHLTNnVUhGeGlabFRienpqYkhpVDZGNTNBdUNHY3l6YjVfVEpnQmNvSEoxT1Z4Zg?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold price update morning of September 24th: Shocking reduction, should buy or sell news.laodong.vn",
-      "published": "2026-09-23T23:00:00+00:00",
-      "ai_summary_ja": "news.laodong.vnは9月24日朝の金価格動向を報じ、「Gold price update morning of September 24th: Shocking reduction, should buy or sell」と題した記事を配信した。大幅な値下がりについて言及する内容で、見出しに売買判断の是非が示されている。Googleニュース（金関連）経由。詳細な価格水準や根拠は概要からは把握できない。"
-    },
-    {
-      "id": "5a3de79b0d92",
-      "title": "Top Wall Street firm resets gold price target for 2030 - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1J4eUtQVEduamV6WC1kMEZ3a0ZWQlltaFJWLU5BYUJ5bkFjdk94SnVreHJsX3gtUkJHN0VsWGo5aWNwSXdDS0V5VDJ1ZU84NEctbW44Ulk2a2pCRWszZmpUQmhQLVVrRjFDTW9CcjBfUWpVdHpUTlpGNFJzM0FkMw?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Top Wall Street firm resets gold price target for 2030 thestreet.com",
-      "published": "2026-09-23T22:37:00+00:00",
-      "ai_summary_ja": "thestreet.comは、主要ウォール街金融機関が2030年向けの金価格目標を改定したと報じた。記事タイトルは「Top Wall Street firm resets gold price target for 2030」で、中長期の金相場見通しを取り上げている。Googleニュース（金関連）経由で配信。2030年までの価格予想の見直しに関する内容だが、具体的な目標価格の数値や改定理由は概要からは確認できない。"
-    },
-    {
-      "id": "db42b94b725a",
-      "title": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1hQU1lJcmZiZl9aQ0NEdHhfd000ZDQ1T2xnY2xQMU82MjAtb0RQbFhIeVNFbFo0SDR4ZjN3bDZoSnltVkhrMG1GcTFyeGl0NjZGYzEzS3cyZzN3MHZpX1NacEprR1l5dUFsVnhpaEtFQzE2SllkbmM5S040QnhSd3pBWDB0aTVsRS1kT1k0WVZHcWdqeWN2LTJmY0tWR05WdHdBa2VSbUFZcE5Da1QxS0dOdG1xNE1rckttNQ?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold Price Forecast:Pullback Tests Key Support Before Bullish Reversal FXEmpire",
-      "published": "2026-09-23T22:31:57+00:00",
-      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Pullback Tests Key Support Before Bullish Reversal」と題し、金相場の押し目局面が重要な支持線を試している状況を報じた。調整局面の後に強気反転の可能性に言及する内容で、テクニカル分析に基づく見通しを示している。具体的な価格目標や時期は概要から限定的。Googleニュース（金関連）経由の分析記事である。"
-    },
-    {
-      "id": "131a8f0f9ebc",
-      "title": "Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss",
+      "id": "561d698f0291",
+      "title": "Market Chatter: Gold Selloff Is Temporary, Hedge Fund Manager Lamm Says",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-gold-selloff-temporary-230133518.html?.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
-      "published": "2026-09-23T22:15:05+00:00",
-      "ai_summary_ja": "Yahoo Financeによると、金鉱企業AngloGold Ashanti（AU）は直近の取引日に前日比5.6%下落し、終値98.74ドルで取引を終えた。「Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market」と題し、同社株が広範な市場全体の下落幅を上回った背景を説明する内容。Yahoo FinanceのGC=Fフィード経由で配信されている。"
+      "summary": "Australian hedge fund manager Raphael Lamm sees the recent decline in gold as temporary, Bloomberg r",
+      "published": "2026-09-24T23:01:33+00:00",
+      "ai_summary_ja": "Yahoo Financeは「Market Chatter: Gold Selloff Is Temporary, Hedge Fund Manager Lamm Says」と題し、豪州のヘッジファンドマネージャーRaphael Lammが金の最近の下落は一時的なものだと見ていると報じた。Bloomberg関連の記事として配信されている。概要では金価格の短期的な調整局面について言及する内容だが、具体的な価格水準や時期の詳細は限定的である。"
+    },
+    {
+      "id": "be8774b61c89",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1U3a0Y3R0h1S0hBbTVxcVhGNkZwOG5RMU9HVHpKNjI4ZmRPbmpFUE5GM2FXZ005YlZYeUZpNzR4RkxwYkc3eDNaNVI5NnVIcGNOUFJDcmRFS1ZBMVdycU1tejdrTUZfbnE5cm1nMUxMQXA1dTBBSndIMUVVcTV3eG01NW5EdGwxa3NERlczbVVYVGlSN1ZJMkNTU3Bmb2lxdEZ1SzhuMlctN19saWhSRHFsNGZqc2o4cERrVGJiZUVRN1M0S19ldHJ3UjlHUzdOamk0c3lOczZ1NzFXVURV?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs FXEmpire",
+      "published": "2026-09-24T21:40:28+00:00",
+      "ai_summary_ja": "FXEmpireは「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs」と題した分析を配信した。金（XAUUSD）が押し目を形成し、30年物利回りが数十年ぶりの高水準を試している状況を取り上げ、銀・プラチナも含めた貴金属相場の見通しを示している。Googleニュース（金関連）経由の記事である。"
+    },
+    {
+      "id": "318559f97f46",
+      "title": "Lundin Gold Reports High-Grade Drill Results at Bonza Sur, Identifies New Epithermal Vein System",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-high-grade-211816615.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "Lundin Gold (LUG.TO) on Thursday said ongoing near-mine exploration drilling at its Fruta del Norte",
+      "published": "2026-09-24T21:18:16+00:00",
+      "ai_summary_ja": "Yahoo Financeによると、Lundin Gold（LUG.TO）はBonza Surでの高品位な掘削結果を報告し、新たなエピサーマル鉱脈系を確認した。同社のFruta del Norte鉱山付近で進めている近接探鉱掘削の成果として発表された。記事タイトルは「Lundin Gold Reports High-Grade Drill Results at Bonza Sur, Identifies New Epithermal Vein System」で、採掘事業者の探鉱・開発に関する企業ニュースである。"
+    },
+    {
+      "id": "4fff979a57c5",
+      "title": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWl1UHdVUUFyN0d3ZTdaUXBTaDZuT2ExTTNQYjdtSHQwYUdKNktEbFllSnpjV3BTT0dYN0lfSVViRnBYNlp4djh6TWJ2SDlnN2VWUks5YnRnUGViS1NzZGN3RVdBYktpQVoyOFBYNXdvWjQwUzVONUVxdTNVZjdDSnNyV3loNE5BU3FzSU13UGhsbEhZcjZCbmd4cWJWZU83aFhJelZlcWE1dGNBX1ZWeE5GcHEzTnlDM21iRmVxQTlYMUZkSTIxdTBHVEtwM05WSnVn?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary Bloomberg",
+      "published": "2026-09-24T21:00:00+00:00",
+      "ai_summary_ja": "Bloomberg経由のGoogleニュース記事は「Hedge Fund With 235% Return Says Gold Price Decline Is Temporary」と報じ、235%のリターンを記録したヘッジファンドが金価格の下落は一時的だと述べたとする。金相場の最近の調整局面に対する見方を取り上げた内容で、Googleニュース（金関連）フィードから配信されている。具体的な価格予測や根拠の詳細は概要からは確認できない。"
+    },
+    {
+      "id": "11c09f0675f4",
+      "title": "Lundin Gold Reports 204.26 g/t Au over 3.05 Metres at Bonza Sur; Quebrada Dorada Discovery Extends Gold Epithermal Trend to 8 km",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-204-26-210000564.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report results from its ongoing near‑mine exploration drilling programs at the Fruta del Norte (\"FDN\") gold mine in southeast Ecuador.",
+      "published": "2026-09-24T21:00:00+00:00",
+      "ai_summary_ja": "Lundin Goldはエクアドル南東部のFruta del Norte（FDN）金鉱山における近接探鉱掘削の結果を発表した。Bonza Surで3.05メートルにわたり204.26g/t Auの高品位結果を報告し、Quebrada Doradaの発見により金エピサーマル傾向が8kmに延長したとしている。同社はTSX:LUG、Nasdaq Stockholm:LUG等で上場。Yahoo FinanceのGC=Fフィード経由で配信された企業リリースである。"
     }
   ],
   "bias": {
     "direction": "弱気寄り",
-    "total": -3,
+    "total": -2,
     "factors": {
       "gold": -1,
-      "dxy": -1,
+      "dxy": 0,
       "us10y": -1,
       "news": 0
     },
     "reasons": [
       "金の前日比がマイナス",
-      "ドル指数が強い"
+      "米金利が上昇"
     ],
-    "caution": "10:30 Unemployment Rate。雇用・ドル材料",
+    "caution": "短期材料ベース。継続は要確認",
     "news_counts": {
       "bull": 0,
       "bear": 0
