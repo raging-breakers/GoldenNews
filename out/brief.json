@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-25T09:02:46+09:00",
+  "generated_at": "2026-09-26T09:03:08+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4305.2001953125,
-      "prev": 4318.39990234375,
-      "change": -13.19970703125,
-      "change_pct": -0.3056619889252509,
+      "last": 4320.5,
+      "prev": 4298.0,
+      "change": 22.5,
+      "change_pct": 0.5234993020009306,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.26699829101562,
-      "prev": 101.0999984741211,
-      "change": 0.16699981689453125,
-      "change_pct": 0.16518280852128672,
+      "last": 101.03500366210938,
+      "prev": 101.29000091552734,
+      "change": -0.25499725341796875,
+      "change_pct": -0.2517496802380606,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 5.161999702453613,
-      "prev": 5.113999843597412,
-      "change": 0.04799985885620117,
-      "change_pct": 0.9385971905395282,
+      "last": 5.184000015258789,
+      "prev": 5.1620001792907715,
+      "change": 0.021999835968017578,
+      "change_pct": 0.4261882061972385,
       "ok": true,
       "error": null
     }
@@ -38,63 +38,63 @@
   },
   "news": [
     {
-      "id": "561d698f0291",
-      "title": "Market Chatter: Gold Selloff Is Temporary, Hedge Fund Manager Lamm Says",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-gold-selloff-temporary-230133518.html?.tsrc=rss",
-      "source": "Yahoo GC=F",
-      "summary": "Australian hedge fund manager Raphael Lamm sees the recent decline in gold as temporary, Bloomberg r",
-      "published": "2026-09-24T23:01:33+00:00",
-      "ai_summary_ja": "Yahoo Financeは「Market Chatter: Gold Selloff Is Temporary, Hedge Fund Manager Lamm Says」と題し、豪州のヘッジファンドマネージャーRaphael Lammが金の最近の下落は一時的なものだと見ていると報じた。Bloomberg関連の記事として配信されている。概要では金価格の短期的な調整局面について言及する内容だが、具体的な価格水準や時期の詳細は限定的である。"
-    },
-    {
-      "id": "be8774b61c89",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1U3a0Y3R0h1S0hBbTVxcVhGNkZwOG5RMU9HVHpKNjI4ZmRPbmpFUE5GM2FXZ005YlZYeUZpNzR4RkxwYkc3eDNaNVI5NnVIcGNOUFJDcmRFS1ZBMVdycU1tejdrTUZfbnE5cm1nMUxMQXA1dTBBSndIMUVVcTV3eG01NW5EdGwxa3NERlczbVVYVGlSN1ZJMkNTU3Bmb2lxdEZ1SzhuMlctN19saWhSRHFsNGZqc2o4cERrVGJiZUVRN1M0S19ldHJ3UjlHUzdOamk0c3lOczZ1NzFXVURV?oc=5",
+      "id": "8feb48cd8eaf",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmxsYjB5TmRMR0N0MUUxQ2I5TThaQ0ltd3BDNUtINTd4NVFLQmNJMmZtbTBSeFpPRzdjRUg3VlFSSXVPcGZKX21ObGE1NjVlYmZyb29id1diRGlGY0I0WTNZRGtPNHFFenVlaUN3ZWExUjNfcDd2WVdKeHcxeGFHa2JYQ002T3ZBMFVQb3NkbzBDTGdsb2JvWnhQQU9laUROQU8wbkFqMmlhSFY0eVRhRUxIMDBSaDdkdXlZNVpsNU9OWmRWdndxR3A3cjhCLTJCWWc?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs FXEmpire",
-      "published": "2026-09-24T21:40:28+00:00",
-      "ai_summary_ja": "FXEmpireは「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs」と題した分析を配信した。金（XAUUSD）が押し目を形成し、30年物利回りが数十年ぶりの高水準を試している状況を取り上げ、銀・プラチナも含めた貴金属相場の見通しを示している。Googleニュース（金関連）経由の記事である。"
+      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back FXEmpire",
+      "published": "2026-09-25T23:55:55+00:00",
+      "ai_summary_ja": "FXEmpireは「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back」と題した分析記事を公開した。記事では、米ドルが押し目を形成する中、金（XAUUSD）が反発を試みる動きを取り上げ、銀・プラチナを含む貴金属相場の見通しを示している。Googleニュース（金関連）フィード経由で配信されたもので、為替動向と貴金属価格の関係に焦点を当てた内容である。"
     },
     {
-      "id": "318559f97f46",
-      "title": "Lundin Gold Reports High-Grade Drill Results at Bonza Sur, Identifies New Epithermal Vein System",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-high-grade-211816615.html?.tsrc=rss",
-      "source": "Yahoo GC=F",
-      "summary": "Lundin Gold (LUG.TO) on Thursday said ongoing near-mine exploration drilling at its Fruta del Norte",
-      "published": "2026-09-24T21:18:16+00:00",
-      "ai_summary_ja": "Yahoo Financeによると、Lundin Gold（LUG.TO）はBonza Surでの高品位な掘削結果を報告し、新たなエピサーマル鉱脈系を確認した。同社のFruta del Norte鉱山付近で進めている近接探鉱掘削の成果として発表された。記事タイトルは「Lundin Gold Reports High-Grade Drill Results at Bonza Sur, Identifies New Epithermal Vein System」で、採掘事業者の探鉱・開発に関する企業ニュースである。"
-    },
-    {
-      "id": "4fff979a57c5",
-      "title": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWl1UHdVUUFyN0d3ZTdaUXBTaDZuT2ExTTNQYjdtSHQwYUdKNktEbFllSnpjV3BTT0dYN0lfSVViRnBYNlp4djh6TWJ2SDlnN2VWUks5YnRnUGViS1NzZGN3RVdBYktpQVoyOFBYNXdvWjQwUzVONUVxdTNVZjdDSnNyV3loNE5BU3FzSU13UGhsbEhZcjZCbmd4cWJWZU83aFhJelZlcWE1dGNBX1ZWeE5GcHEzTnlDM21iRmVxQTlYMUZkSTIxdTBHVEtwM05WSnVn?oc=5",
+      "id": "0885cc69313b",
+      "title": "Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnYyS1cxeUdKME9WZGE1OGpQSHpUckc4OGRaMFhFS29pWUZyTldrcVBETjhrN0tsYkttRG5tVnpmdzVsWG00SHdpcWtBOGdBMDdXNzNkTGV3WkxRNzZ2cldKTXFJMWNpSUczbS1WTUtkOHFmY0E2YXAwVFhjZG9jcTFzZHVLLU1UMGdCRFFmeXpxSklzS3FyUXMxWVozWmtpMmtQa19lbU1qQi10N0p2alkzSGZrckN1RnNBdVVzbzE?oc=5",
       "source": "Google News (gold)",
-      "summary": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary Bloomberg",
-      "published": "2026-09-24T21:00:00+00:00",
-      "ai_summary_ja": "Bloomberg経由のGoogleニュース記事は「Hedge Fund With 235% Return Says Gold Price Decline Is Temporary」と報じ、235%のリターンを記録したヘッジファンドが金価格の下落は一時的だと述べたとする。金相場の最近の調整局面に対する見方を取り上げた内容で、Googleニュース（金関連）フィードから配信されている。具体的な価格予測や根拠の詳細は概要からは確認できない。"
+      "summary": "Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields FXEmpire",
+      "published": "2026-09-25T23:11:00+00:00",
+      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields」と題する記事を配信した。記事では、国債利回りが上昇する局面にもかかわらず金鉱株の動向を分析し、金価格の見通しを示している。Googleニュース（金関連）経由の分析記事で、金利動向と金鉱セクターの関係を取り上げた内容である。"
     },
     {
-      "id": "11c09f0675f4",
-      "title": "Lundin Gold Reports 204.26 g/t Au over 3.05 Metres at Bonza Sur; Quebrada Dorada Discovery Extends Gold Epithermal Trend to 8 km",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-204-26-210000564.html?.tsrc=rss",
+      "id": "4bc7c89009ae",
+      "title": "DLP Resources Provides Update on Esperanza Drill Program",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dlp-resources-provides-esperanza-drill-221500184.html?.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report results from its ongoing near‑mine exploration drilling programs at the Fruta del Norte (\"FDN\") gold mine in southeast Ecuador.",
-      "published": "2026-09-24T21:00:00+00:00",
-      "ai_summary_ja": "Lundin Goldはエクアドル南東部のFruta del Norte（FDN）金鉱山における近接探鉱掘削の結果を発表した。Bonza Surで3.05メートルにわたり204.26g/t Auの高品位結果を報告し、Quebrada Doradaの発見により金エピサーマル傾向が8kmに延長したとしている。同社はTSX:LUG、Nasdaq Stockholm:LUG等で上場。Yahoo FinanceのGC=Fフィード経由で配信された企業リリースである。"
+      "summary": "Cranbrook, British Columbia--(Newsfile Corp. - September 25, 2026) - DLP Resources Inc. (TSXV: DLP) (OTCQB: DLPRF) (FSE: J8C) (\"DLP\" or the \"Company\") provides an update on its recently commenced maiden drill program at the 100%-owned Esperanza copper-gold-molybdenum project (\"Es",
+      "published": "2026-09-25T22:15:00+00:00",
+      "ai_summary_ja": "DLP Resources Inc.（TSXV: DLP、OTCQB: DLPRF、FSE: J8C）は、100%保有のEsperanza銅・金・モリブデン探査プロジェクトにおける初の掘削プログラムに関する最新情報を発表した。同社は2026年9月25日付でNewsfile Corp.経由のリリースとして更新を公表している。Yahoo FinanceのGC=Fフィード経由で配信された採掘事業者の企業ニュースである。"
+    },
+    {
+      "id": "a78afad7dcdc",
+      "title": "Gold price dips to seven-week low as rate hike pressure mounts - Mining.com.au",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLURwQVJXVHNULWtaS3RTM3ZIcldFb0M3OFpWTERWTEhkRXRhRERxUW42MUVmenZQZDB5V0N4YURSdnN2SWVNU3JJdzE3WENGZWh0ZW5iQzNJTlFJQW00cjZZOG5Udk9LVi1odEdmZHlqZGY0eDMyM2lETUtuUEpiMFRLNHk3Y1JTV2Utc0FB?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Gold price dips to seven-week low as rate hike pressure mounts Mining.com.au",
+      "published": "2026-09-25T21:39:56+00:00",
+      "ai_summary_ja": "Mining.com.auは「Gold price dips to seven-week low as rate hike pressure mounts」と報じ、金価格が7週間ぶりの安値圏まで下落し、利上げ圧力が高まっている局面を取り上げた。Googleニュース（金関連）フィード経由で配信された記事で、金利政策を巡る要因と金相場の動きに関する内容である。"
+    },
+    {
+      "id": "9a7af1e277ec",
+      "title": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWtUQVJKczJHZ1lWRDRZUEpOc1JuMVJHNmxQR18wSFlJbWJaemlYMXozWXdJTXRxRDVzWWRnWVFobWJCWEZqdUVqa2VMemE3NlI0MDJKdVFBWkJ0a3NrZE01WEJ2NS1mVUhaLTJYNnM4MUdHNHlDTnhYa0JZdS1lN2Vqdk5YOUhhWlhkMXc3S3pFaURQeFVKUU9pbVN5cWYzY0FwdThESE1IQ2JMVEo3T2JZbw?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage Kitco",
+      "published": "2026-09-25T21:35:13+00:00",
+      "ai_summary_ja": "Kitco経由のGoogleニュース記事は、金価格が4,300ドルを下回った後の見通しについて、ウォール街の見方が分かれる一方、メインストリートでは強気派が多数派を維持していると報じた。雇用統計などのマクロ指標が焦点となる中、投資家層ごとの金価格見通しの違いを取り上げた内容である。"
     }
   ],
   "bias": {
-    "direction": "弱気寄り",
-    "total": -2,
+    "direction": "強気寄り",
+    "total": 2,
     "factors": {
-      "gold": -1,
-      "dxy": 0,
-      "us10y": -1,
+      "gold": 1,
+      "dxy": 1,
+      "us10y": 0,
       "news": 0
     },
     "reasons": [
-      "金の前日比がマイナス",
-      "米金利が上昇"
+      "金の前日比がプラス",
+      "ドル指数が弱い"
     ],
     "caution": "短期材料ベース。継続は要確認",
     "news_counts": {
