@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-26T09:03:08+09:00",
+  "generated_at": "2026-09-27T09:07:11+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4320.5,
+      "last": 4321.2001953125,
       "prev": 4298.0,
-      "change": 22.5,
-      "change_pct": 0.5234993020009306,
+      "change": 23.2001953125,
+      "change_pct": 0.5397904912168451,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.03500366210938,
+      "last": 100.97000122070312,
       "prev": 101.29000091552734,
-      "change": -0.25499725341796875,
-      "change_pct": -0.2517496802380606,
+      "change": -0.31999969482421875,
+      "change_pct": -0.31592426886350644,
       "ok": true,
       "error": null
     },
@@ -38,49 +38,49 @@
   },
   "news": [
     {
-      "id": "8feb48cd8eaf",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmxsYjB5TmRMR0N0MUUxQ2I5TThaQ0ltd3BDNUtINTd4NVFLQmNJMmZtbTBSeFpPRzdjRUg3VlFSSXVPcGZKX21ObGE1NjVlYmZyb29id1diRGlGY0I0WTNZRGtPNHFFenVlaUN3ZWExUjNfcDd2WVdKeHcxeGFHa2JYQ002T3ZBMFVQb3NkbzBDTGdsb2JvWnhQQU9laUROQU8wbkFqMmlhSFY0eVRhRUxIMDBSaDdkdXlZNVpsNU9OWmRWdndxR3A3cjhCLTJCWWc?oc=5",
+      "id": "fc82009a3d3b",
+      "title": "Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHdOUWtQX2g5WDdSakJxS3Vpb2ZMeFVocDU3MmNpVmtrZ2U4R3RwZkItX3B5MmVFQlY1NldiWEFWVENXejRIenhiUXJzam9oaTVMYkRKS25CcTNxR0lVNUhlSWVSdDc2S2d3NmJPd2NHRFVId1FXVk1zS0t5VmpUNDU2eXF6ZllvT2x5SHBIUy0tTWJOQjdhNmlwNEN4UU5henNyc25mZDYtV2xmdzV1UVRDWmxqUEtFdl9IUnlBWkVpX3NV?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back FXEmpire",
-      "published": "2026-09-25T23:55:55+00:00",
-      "ai_summary_ja": "FXEmpireは「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back」と題した分析記事を公開した。記事では、米ドルが押し目を形成する中、金（XAUUSD）が反発を試みる動きを取り上げ、銀・プラチナを含む貴金属相場の見通しを示している。Googleニュース（金関連）フィード経由で配信されたもので、為替動向と貴金属価格の関係に焦点を当てた内容である。"
+      "summary": "Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce Laodong.vn",
+      "published": "2026-09-26T23:00:00+00:00",
+      "ai_summary_ja": "Laodong.vnは9月27日朝の金価格更新として、世界の金相場が1オンスあたり4,300米ドル超の水準を通過したと報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce」としている。国際金価格の水準感を取り上げた速報的内容である。"
     },
     {
-      "id": "0885cc69313b",
-      "title": "Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnYyS1cxeUdKME9WZGE1OGpQSHpUckc4OGRaMFhFS29pWUZyTldrcVBETjhrN0tsYkttRG5tVnpmdzVsWG00SHdpcWtBOGdBMDdXNzNkTGV3WkxRNzZ2cldKTXFJMWNpSUczbS1WTUtkOHFmY0E2YXAwVFhjZG9jcTFzZHVLLU1UMGdCRFFmeXpxSklzS3FyUXMxWVozWmtpMmtQa19lbU1qQi10N0p2alkzSGZrckN1RnNBdVVzbzE?oc=5",
+      "id": "5f833dcfadd4",
+      "title": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? - FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPak52NWZDN1lCcnNHRjE2RGhVbW95cWozQUNuX3N2eEtadE9CTHV2SnIwV1dENGFsNzY0b3BBYjAtRXZ0WWJ4dWZ4bjZ6d3JCeldiTENxb09VR3UtbE10enE5OEVLZUgyVGlCa1EzR0FaNFJnWk5UNFpHNzV6R0JDX3BqbENtdDl2d3BldVJmMnAweW9oMElxajhHTEJ1MEVhM2g2NUlHenNFZTV6aURkVFpidXA4VjE1WFFtNGUzY1g4VVFRaHhn0gHTAUFVX3lxTFBVbnBXMktrOVJyeDlBUWVSXzFhNUFfWUFhQ19pQ0o1WHZsYkFlTHN4VEdSTEZfT1RubUZRZklmQ05ULU80MVd5VldhNG9kbk1zd3c0OF9WbHl2WE1NMEJaSURkRUg1RGtzT0haREdEZHVpemJNeXlockJSYjdCNld4eEl1Vm1HX2ItX0tDeGs2azJyLTk2QUN2RFF4VTczQUp4Nmt0WU5KcWIxUkJ2NjkweGM1YTgyY0tfa2dKRXhWaF9ROHlhUm41bDk0WHo2RjhVTFk?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields FXEmpire",
-      "published": "2026-09-25T23:11:00+00:00",
-      "ai_summary_ja": "FXEmpireは「Gold Price Forecast: Gold Miners Look Bullish Despite Spiking Bond Yields」と題する記事を配信した。記事では、国債利回りが急上昇する局面にもかかわらず金鉱株の動向を分析し、金価格の見通しを示している。Googleニュース（金関連）経由の分析記事で、金利動向と金鉱セクターの関係を取り上げ、相場観の整理を試みた内容である。"
+      "summary": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? FOREX.com",
+      "published": "2026-09-26T17:03:59+00:00",
+      "ai_summary_ja": "FOREX.comは「Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue?」と題する分析記事を配信した。記事では、米国債利回りが急上昇する局面でもXAU/USD（ドル建て金）が下落崩れを回避した動きを取り上げ、その後の展開について論じている。Googleニュース（金関連）経由の為替・金相場分析である。"
     },
     {
-      "id": "4bc7c89009ae",
-      "title": "DLP Resources Provides Update on Esperanza Drill Program",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dlp-resources-provides-esperanza-drill-221500184.html?.tsrc=rss",
-      "source": "Yahoo GC=F",
-      "summary": "Cranbrook, British Columbia--(Newsfile Corp. - September 25, 2026) - DLP Resources Inc. (TSXV: DLP) (OTCQB: DLPRF) (FSE: J8C) (\"DLP\" or the \"Company\") provides an update on its recently commenced maiden drill program at the 100%-owned Esperanza copper-gold-molybdenum project (\"Es",
-      "published": "2026-09-25T22:15:00+00:00",
-      "ai_summary_ja": "DLP Resources Inc.（TSXV: DLP、OTCQB: DLPRF、FSE: J8C）は、100%保有のEsperanza銅・金・モリブデン探査プロジェクトにおける初の掘削プログラムに関する最新情報を発表した。同社は2026年9月25日付でNewsfile Corp.経由のリリースとして更新を公表している。Yahoo FinanceのGC=Fフィード経由で配信された採掘事業者の企業ニュースである。"
+      "id": "8b98ccc24547",
+      "title": "OANDA:XAUUSD Chart Image by Olisa_9 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxb1ZRUVNjNkVxWFRfT1pJU2NMSnluNmVtYi1SMUJrNUJNZXdpcEtqZ1NVVG1QZks3Z2R0NDg2aGw2T2hMVDMzSk5jZDVBY0U?oc=5",
+      "source": "Google News (gold)",
+      "summary": "OANDA:XAUUSD Chart Image by Olisa_9 TradingView",
+      "published": "2026-09-26T16:49:17+00:00",
+      "ai_summary_ja": "TradingViewにOlisa_9氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by Olisa_9」で、ドル建て金のチャート可視化コンテンツである。概要も同内容を示しており、2026年9月26日付で公開された相場チャートの共有投稿として掲載されたものとみられる。価格推移の図表データが中心の記事である。"
     },
     {
-      "id": "a78afad7dcdc",
-      "title": "Gold price dips to seven-week low as rate hike pressure mounts - Mining.com.au",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLURwQVJXVHNULWtaS3RTM3ZIcldFb0M3OFpWTERWTEhkRXRhRERxUW42MUVmenZQZDB5V0N4YURSdnN2SWVNU3JJdzE3WENGZWh0ZW5iQzNJTlFJQW00cjZZOG5Udk9LVi1odEdmZHlqZGY0eDMyM2lETUtuUEpiMFRLNHk3Y1JTV2Utc0FB?oc=5",
+      "id": "9b915ee4f35f",
+      "title": "Bullion Cues: Trades above a key base - thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlhJbE5SaVFNSW5fX2NRSzlsbFB0UEFtc2thenZWY3Nta3NjeXBVY2lNZHRWU0JMQ2ltUEFiRVdPaTAzV0JlemVRUzN4SzdCUHlQWFB4RS1GeGlIY2NlNjlXNURMRWwydl9RMmg0RWpOVXRtZ1JOZUFPNlV6NDFqMkNsd1QxSThNRmcxM01DU0Y4NVFISVJQWjlqcmRSY3FpWlRaWXVGc1Q2UXpzSUV5bzlOc2NKNXdMcmV3Mnd3NNIBxgFBVV95cUxONVV5ZU1pNmdQTUJsc2RFX2pKcWlGcm12VUZJZzNiUnVHZlpxX2xDaUFXV1JyMWdOSi1kUDN2alY1cE91ZWthMWJfV0ZfeF9hYlVxR2QxTWlDN3Y2eDJONWpNVHd2V0lOQzZMUzJ1QjIwcmxvNkQ5VjB6LUZvb1QyY2gtcW5wdmgxNkdiRWJDS0FmMWdHWkczVGJmclVGalpQUjhmUmNDM052RlJ0VFBuc0RlS2ZEYnVocml6ZENSMWJKemZUSEE?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold price dips to seven-week low as rate hike pressure mounts Mining.com.au",
-      "published": "2026-09-25T21:39:56+00:00",
-      "ai_summary_ja": "Mining.com.auは「Gold price dips to seven-week low as rate hike pressure mounts」と報じ、金価格が7週間ぶりの安値圏まで下落し、利上げ圧力が高まっている局面を取り上げた。Googleニュース（金関連）フィード経由で配信された記事で、金利政策を巡る要因と金相場の動きに関する報道である。タイトルは金価格の下落局面と政策要因の関係を強調している。"
+      "summary": "Bullion Cues: Trades above a key base thehindubusinessline.com",
+      "published": "2026-09-26T16:01:58+00:00",
+      "ai_summary_ja": "thehindubusinessline.comは「Bullion Cues: Trades above a key base」と題する記事を配信した。Googleニュース（金関連）フィード経由で2026年9月26日付で公開されており、地金（ブリオン）相場が重要な支持線（ベース）の上で推移している動きを取り上げた内容である。概要も同タイトルに沿ったもので、金関連商品の価格動向とテクニカル水準を示す報道である。"
     },
     {
-      "id": "9a7af1e277ec",
-      "title": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWtUQVJKczJHZ1lWRDRZUEpOc1JuMVJHNmxQR18wSFlJbWJaemlYMXozWXdJTXRxRDVzWWRnWVFobWJCWEZqdUVqa2VMemE3NlI0MDJKdVFBWkJ0a3NrZE01WEJ2NS1mVUhaLTJYNnM4MUdHNHlDTnhYa0JZdS1lN2Vqdk5YOUhhWlhkMXc3S3pFaURQeFVKUU9pbVN5cWYzY0FwdThESE1IQ2JMVEo3T2JZbw?oc=5",
+      "id": "d59e5f553e84",
+      "title": "How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD by Hsan_Benhmed - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV08ybFVXaDU4N1BsTUh0X29PMng0R2UtY3ktZ0FheXNwUWxsMndrcGRJeWhFbHFscGxOZVFiTkdEbHNTeTZ3YnE1UXd3bTAzZUMybi12ZDNUdEE5V1lxWnpnQ040N0gweHpCTkZWOXlsT25SLTdmRkJUbWNVTUMteURZeHZNTVRtRWxqb2dGVjU3Z1NXUm9ReDU0b0lwTVhVN29Z?oc=5",
       "source": "Google News (gold)",
-      "summary": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage Kitco",
-      "published": "2026-09-25T21:35:13+00:00",
-      "ai_summary_ja": "Kitco経由のGoogleニュース記事は、金価格が4,300ドルを下回った後の見通しについて報じている。記事タイトルは「Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage」で、ウォール街の見方が分かれる一方、メインストリートでは強気派が多数派を維持していると述べ、雇用統計などのマクロ指標が焦点となる中、投資家層ごとの金価格見通しの違いを取り上げた報道である。"
+      "summary": "How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD by Hsan_Benhmed TradingView",
+      "published": "2026-09-26T14:36:27+00:00",
+      "ai_summary_ja": "TradingViewにHsan_Benhmed氏が「How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD」と題する投稿を公開した。Googleニュース（金関連）経由で配信され、OANDAのXAUUSD（ドル建て金）におけるフェイクブレイクアウトの取り扱いと確認待ちの重要性について述べたテクニカル分析コンテンツである。投資判断の推奨ではなく、チャート分析の解説記事として掲載されている。"
     }
   ],
   "bias": {
