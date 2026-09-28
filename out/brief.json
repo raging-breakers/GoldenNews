@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-27T09:07:11+09:00",
+  "generated_at": "2026-09-28T09:17:48+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4321.2001953125,
-      "prev": 4298.0,
-      "change": 23.2001953125,
-      "change_pct": 0.5397904912168451,
+      "last": 4290.89990234375,
+      "prev": 4321.2001953125,
+      "change": -30.30029296875,
+      "change_pct": -0.7012008608538617,
       "ok": true,
       "error": null
     },
@@ -34,66 +34,106 @@
   },
   "calendar_view": {
     "today": [],
-    "week": []
+    "week": [
+      {
+        "id": "2026-09-30-aud-cpi-m-m",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "CPI m/m",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "0.5%",
+        "previous": "1.0%"
+      },
+      {
+        "id": "2026-09-30-aud-cpi-y-y",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "CPI y/y",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "4.1%",
+        "previous": "3.5%"
+      },
+      {
+        "id": "2026-09-30-aud-trimmed-mean-cpi-m-m",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "Trimmed Mean CPI m/m",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "0.3%",
+        "previous": "0.5%"
+      }
+    ]
   },
   "news": [
     {
-      "id": "fc82009a3d3b",
-      "title": "Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHdOUWtQX2g5WDdSakJxS3Vpb2ZMeFVocDU3MmNpVmtrZ2U4R3RwZkItX3B5MmVFQlY1NldiWEFWVENXejRIenhiUXJzam9oaTVMYkRKS25CcTNxR0lVNUhlSWVSdDc2S2d3NmJPd2NHRFVId1FXVk1zS0t5VmpUNDU2eXF6ZllvT2x5SHBIUy0tTWJOQjdhNmlwNEN4UU5henNyc25mZDYtV2xmdzV1UVRDWmxqUEtFdl9IUnlBWkVpX3NV?oc=5",
+      "id": "4205551856fb",
+      "title": "Gold price update morning of September 28: Experts cautiously forecast gold prices for next week - news.laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1VQSzBXZ0N0aTJoejFiUW1WWmVqSUxxSHpqTVlqLUozYTMzak4xZEk0akU1VHhWMmtEckZVbU5RT2x3RGs3Nkpuc3I1ZFpQSWxub0E4Tkg4WE9IWmx3SDRIYm1xb1B4QzNxNHI4T2R5VlFLWUVIVzQxbkZSMXZnM2dYLThWbER6dVFpOHdBaXpGSm5YMlc0QTU4dXJZcHpjakdyM3dsdmJIX08ya1hubHVDNXY4b1Y4cGhJRnRVbTZBcEhfRnc?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce Laodong.vn",
-      "published": "2026-09-26T23:00:00+00:00",
-      "ai_summary_ja": "Laodong.vnは9月27日朝の金価格更新として、世界の金相場が1オンスあたり4,300米ドル超の水準を通過したと報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Gold price update morning of September 27: World gold slips through the threshold above 4,300 USD/ounce」としている。国際金価格の水準感を取り上げた速報的内容である。"
+      "summary": "Gold price update morning of September 28: Experts cautiously forecast gold prices for next week news.laodong.vn",
+      "published": "2026-09-27T23:00:00+00:00",
+      "ai_summary_ja": "news.laodong.vnは9月28日朝の金価格更新として、専門家が来週の金価格を慎重な見方で予想していると報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Gold price update morning of September 28: Experts cautiously forecast gold prices for next week」としている。国際金価格の短期見通しを取り上げた報道である。"
     },
     {
-      "id": "5f833dcfadd4",
-      "title": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? - FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPak52NWZDN1lCcnNHRjE2RGhVbW95cWozQUNuX3N2eEtadE9CTHV2SnIwV1dENGFsNzY0b3BBYjAtRXZ0WWJ4dWZ4bjZ6d3JCeldiTENxb09VR3UtbE10enE5OEVLZUgyVGlCa1EzR0FaNFJnWk5UNFpHNzV6R0JDX3BqbENtdDl2d3BldVJmMnAweW9oMElxajhHTEJ1MEVhM2g2NUlHenNFZTV6aURkVFpidXA4VjE1WFFtNGUzY1g4VVFRaHhn0gHTAUFVX3lxTFBVbnBXMktrOVJyeDlBUWVSXzFhNUFfWUFhQ19pQ0o1WHZsYkFlTHN4VEdSTEZfT1RubUZRZklmQ05ULU80MVd5VldhNG9kbk1zd3c0OF9WbHl2WE1NMEJaSURkRUg1RGtzT0haREdEZHVpemJNeXlockJSYjdCNld4eEl1Vm1HX2ItX0tDeGs2azJyLTk2QUN2RFF4VTczQUp4Nmt0WU5KcWIxUkJ2NjkweGM1YTgyY0tfa2dKRXhWaF9ROHlhUm41bDk0WHo2RjhVTFk?oc=5",
+      "id": "683630f6a6d3",
+      "title": "OANDA:XAUUSD Chart Image by Alpha_Trades77 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocl9VbnRlZjAxd3FtSV9JdVBTMm9sbk5RWkN1a29uUTZFa1ZidnNPbmF5Zk55THQybHRHMHpwakU4a2JkdE9iOHh0RXdlTGM?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? FOREX.com",
-      "published": "2026-09-26T17:03:59+00:00",
-      "ai_summary_ja": "FOREX.comは「Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue?」と題する分析記事を配信した。記事では、米国債利回りが急上昇する局面でもXAU/USD（ドル建て金）が下落崩れを回避した動きを取り上げ、その後の展開について論じている。Googleニュース（金関連）経由の為替・金相場分析である。"
+      "summary": "OANDA:XAUUSD Chart Image by Alpha_Trades77 TradingView",
+      "published": "2026-09-27T22:50:23+00:00",
+      "ai_summary_ja": "TradingViewにAlpha_Trades77氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by Alpha_Trades77」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、価格推移の図表データが中心の記事である。"
     },
     {
-      "id": "8b98ccc24547",
-      "title": "OANDA:XAUUSD Chart Image by Olisa_9 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxb1ZRUVNjNkVxWFRfT1pJU2NMSnluNmVtYi1SMUJrNUJNZXdpcEtqZ1NVVG1QZks3Z2R0NDg2aGw2T2hMVDMzSk5jZDVBY0U?oc=5",
+      "id": "098eeee73a88",
+      "title": "FOREXCOM:XAUUSD Chart Image by Prime_X_Trader - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyZnZkZWVLcU1NNnROM09ZWGFUUnNzNEU2bm5vSjVJMFd0QUIyejVRTUtjR0dPcWd3Z2hjX0FCQjZkSG9pYVkxRmZYb283ZnM?oc=5",
       "source": "Google News (gold)",
-      "summary": "OANDA:XAUUSD Chart Image by Olisa_9 TradingView",
-      "published": "2026-09-26T16:49:17+00:00",
-      "ai_summary_ja": "TradingViewにOlisa_9氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by Olisa_9」で、ドル建て金のチャート可視化コンテンツである。概要も同内容を示しており、2026年9月26日付で公開された相場チャートの共有投稿として掲載されたものとみられる。価格推移の図表データが中心の記事である。"
+      "summary": "FOREXCOM:XAUUSD Chart Image by Prime_X_Trader TradingView",
+      "published": "2026-09-27T22:50:23+00:00",
+      "ai_summary_ja": "TradingViewにPrime_X_Trader氏が投稿したFOREXCOM:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Prime_X_Trader」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、概要も同内容を示している。"
     },
     {
-      "id": "9b915ee4f35f",
-      "title": "Bullion Cues: Trades above a key base - thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlhJbE5SaVFNSW5fX2NRSzlsbFB0UEFtc2thenZWY3Nta3NjeXBVY2lNZHRWU0JMQ2ltUEFiRVdPaTAzV0JlemVRUzN4SzdCUHlQWFB4RS1GeGlIY2NlNjlXNURMRWwydl9RMmg0RWpOVXRtZ1JOZUFPNlV6NDFqMkNsd1QxSThNRmcxM01DU0Y4NVFISVJQWjlqcmRSY3FpWlRaWXVGc1Q2UXpzSUV5bzlOc2NKNXdMcmV3Mnd3NNIBxgFBVV95cUxONVV5ZU1pNmdQTUJsc2RFX2pKcWlGcm12VUZJZzNiUnVHZlpxX2xDaUFXV1JyMWdOSi1kUDN2alY1cE91ZWthMWJfV0ZfeF9hYlVxR2QxTWlDN3Y2eDJONWpNVHd2V0lOQzZMUzJ1QjIwcmxvNkQ5VjB6LUZvb1QyY2gtcW5wdmgxNkdiRWJDS0FmMWdHWkczVGJmclVGalpQUjhmUmNDM052RlJ0VFBuc0RlS2ZEYnVocml6ZENSMWJKemZUSEE?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Bullion Cues: Trades above a key base thehindubusinessline.com",
-      "published": "2026-09-26T16:01:58+00:00",
-      "ai_summary_ja": "thehindubusinessline.comは「Bullion Cues: Trades above a key base」と題する記事を配信した。Googleニュース（金関連）フィード経由で2026年9月26日付で公開されており、地金（ブリオン）相場が重要な支持線（ベース）の上で推移している動きを取り上げた内容である。概要も同タイトルに沿ったもので、金関連商品の価格動向とテクニカル水準を示す報道である。"
+      "id": "e9c95f578710",
+      "title": "Montage Gold achieves first gold pour at its Koné mine on budget and ahead of schedule",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-achieves-first-gold-221800961.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "HIGHLIGHTS: First gold pour at the Koné mine achieved on budget and ahead of the initial schedule of Q2-2027+14.1 million hours worked to date with a strong safety recordConstruction of the Koné mine has created approximately 3,600 jobs with over 95% national employment and will ",
+      "published": "2026-09-27T22:18:00+00:00",
+      "ai_summary_ja": "Montage Goldはコーネ鉱山で初の金地金（ゴールドプール）生産を達成したと発表した。Yahoo Finance（GC=F関連）経由の記事によると、当初2027年第2四半期以降を予定していたスケジュールより予算内かつ前倒しで実現した。これまで1,410万時間以上の無事故作業を記録し、建設工程では約3,600の雇用を創出、うち95%超が現地人雇用である。タイトルは「Montage Gold achieves first gold pour at its Koné mine on budget and ahead of schedule」である。"
     },
     {
-      "id": "d59e5f553e84",
-      "title": "How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD by Hsan_Benhmed - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV08ybFVXaDU4N1BsTUh0X29PMng0R2UtY3ktZ0FheXNwUWxsMndrcGRJeWhFbHFscGxOZVFiTkdEbHNTeTZ3YnE1UXd3bTAzZUMybi12ZDNUdEE5V1lxWnpnQ040N0gweHpCTkZWOXlsT25SLTdmRkJUbWNVTUMteURZeHZNTVRtRWxqb2dGVjU3Z1NXUm9ReDU0b0lwTVhVN29Z?oc=5",
+      "id": "42464461243d",
+      "title": "OANDA:XAUUSD Chart Image by GOLD-CONQUERORS - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WLWVROU10c1NEdUFsdEZWTldUbjlOV1F4VXYxXzhtd1dpY2hNcUpnN0hub296VDNHS0ZUTzJYemN4ck10bXhaZld4MGtCUlU?oc=5",
       "source": "Google News (gold)",
-      "summary": "How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD by Hsan_Benhmed TradingView",
-      "published": "2026-09-26T14:36:27+00:00",
-      "ai_summary_ja": "TradingViewにHsan_Benhmed氏が「How to Trade a Fake Breakout: Wait for Confirmation for OANDA:XAUUSD」と題する投稿を公開した。Googleニュース（金関連）経由で配信され、OANDAのXAUUSD（ドル建て金）におけるフェイクブレイクアウトの取り扱いと確認待ちの重要性について述べたテクニカル分析コンテンツである。投資判断の推奨ではなく、チャート分析の解説記事として掲載されている。"
+      "summary": "OANDA:XAUUSD Chart Image by GOLD-CONQUERORS TradingView",
+      "published": "2026-09-27T20:37:26+00:00",
+      "ai_summary_ja": "TradingViewにGOLD-CONQUERORS氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by GOLD-CONQUERORS」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、価格推移の図表データが中心の記事である。"
     }
   ],
   "bias": {
-    "direction": "強気寄り",
-    "total": 2,
+    "direction": "中立",
+    "total": 0,
     "factors": {
-      "gold": 1,
+      "gold": -1,
       "dxy": 1,
       "us10y": 0,
       "news": 0
     },
     "reasons": [
-      "金の前日比がプラス",
+      "金の前日比がマイナス",
       "ドル指数が弱い"
     ],
     "caution": "短期材料ベース。継続は要確認",
