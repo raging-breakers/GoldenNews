@@ -1,39 +1,53 @@
 {
-  "generated_at": "2026-09-28T09:17:48+09:00",
+  "generated_at": "2026-09-29T09:17:32+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4290.89990234375,
+      "last": 4157.39990234375,
       "prev": 4321.2001953125,
-      "change": -30.30029296875,
-      "change_pct": -0.7012008608538617,
+      "change": -163.80029296875,
+      "change_pct": -3.7906203268812986,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 100.97000122070312,
-      "prev": 101.29000091552734,
-      "change": -0.31999969482421875,
-      "change_pct": -0.31592426886350644,
+      "last": 101.22599792480469,
+      "prev": 100.97000122070312,
+      "change": 0.2559967041015625,
+      "change_pct": 0.25353738833972833,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 5.184000015258789,
-      "prev": 5.1620001792907715,
-      "change": 0.021999835968017578,
-      "change_pct": 0.4261882061972385,
+      "last": 5.240000247955322,
+      "prev": 5.184000015258789,
+      "change": 0.0560002326965332,
+      "change_pct": 1.080251399145446,
       "ok": true,
       "error": null
     }
   },
   "calendar_view": {
-    "today": [],
+    "today": [
+      {
+        "id": "2026-09-29-cad-gdp-m-m",
+        "date": "2026-09-29",
+        "time_jst": "21:30",
+        "name": "GDP m/m",
+        "country": "CAD",
+        "impact": "medium",
+        "gold_relevance": "medium",
+        "note": "景気材料。ドル反応を通じて金に波及しうる",
+        "source": "faireconomy",
+        "forecast": "0.0%",
+        "previous": "0.3%"
+      }
+    ],
     "week": [
       {
         "id": "2026-09-30-aud-cpi-m-m",
@@ -78,63 +92,63 @@
   },
   "news": [
     {
-      "id": "4205551856fb",
-      "title": "Gold price update morning of September 28: Experts cautiously forecast gold prices for next week - news.laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1VQSzBXZ0N0aTJoejFiUW1WWmVqSUxxSHpqTVlqLUozYTMzak4xZEk0akU1VHhWMmtEckZVbU5RT2x3RGs3Nkpuc3I1ZFpQSWxub0E4Tkg4WE9IWmx3SDRIYm1xb1B4QzNxNHI4T2R5VlFLWUVIVzQxbkZSMXZnM2dYLThWbER6dVFpOHdBaXpGSm5YMlc0QTU4dXJZcHpjakdyM3dsdmJIX08ya1hubHVDNXY4b1Y4cGhJRnRVbTZBcEhfRnc?oc=5",
+      "id": "b171aeaea195",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.4% Amid Global Bond Market Sell-Off - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMG9xTDEwRVo3Nkt4ckJXcDFkTE4zZVB1dmMwUXVjUHpnMEt0NEdxQnp2amstSjJnalM5bldXN3dHRWgwbi1uRXcxRjNFTVQtODFvUjZRVmYyWmI4WFhmT0c3aDVrLUZxaktQWHB0dHItanhXRXFZWDRSaVFFdHljdVZoemRBV0IyZ3RaZ1J1QjktWVhCYmg0VVR6aTllemNmN1p3UDJUUUt4dkdUZXZVcnZycUlVSzFmSWtSVlFYakNDcWprSnI0V0pvM1VYaEt5eUE?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold price update morning of September 28: Experts cautiously forecast gold prices for next week news.laodong.vn",
-      "published": "2026-09-27T23:00:00+00:00",
-      "ai_summary_ja": "news.laodong.vnは9月28日朝の金価格更新として、専門家が来週の金価格を慎重な見方で予想していると報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Gold price update morning of September 28: Experts cautiously forecast gold prices for next week」としている。国際金価格の短期見通しを取り上げた報道である。"
+      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.4% Amid Global Bond Market Sell-Off FXEmpire",
+      "published": "2026-09-29T00:04:05+00:00",
+      "ai_summary_ja": "FXEmpireは、世界債券市場の売り圧力の中で金（XAUUSD）が3.4%下落したと報じている。Googleニュース（金関連）フィード経由の記事で、タイトルは「Gold Dives 3.4% Amid Global Bond Market Sell-Off」。銀・プラチナの見通しも含む予測記事として、金価格の大幅下落を取り上げている。概要も同内容を示しており、2026年9月29日付で配信された国際金相場関連の報道である。"
     },
     {
-      "id": "683630f6a6d3",
-      "title": "OANDA:XAUUSD Chart Image by Alpha_Trades77 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocl9VbnRlZjAxd3FtSV9JdVBTMm9sbk5RWkN1a29uUTZFa1ZidnNPbmF5Zk55THQybHRHMHpwakU4a2JkdE9iOHh0RXdlTGM?oc=5",
-      "source": "Google News (gold)",
-      "summary": "OANDA:XAUUSD Chart Image by Alpha_Trades77 TradingView",
-      "published": "2026-09-27T22:50:23+00:00",
-      "ai_summary_ja": "TradingViewにAlpha_Trades77氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by Alpha_Trades77」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、価格推移の図表データが中心の記事である。"
-    },
-    {
-      "id": "098eeee73a88",
-      "title": "FOREXCOM:XAUUSD Chart Image by Prime_X_Trader - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyZnZkZWVLcU1NNnROM09ZWGFUUnNzNEU2bm5vSjVJMFd0QUIyejVRTUtjR0dPcWd3Z2hjX0FCQjZkSG9pYVkxRmZYb283ZnM?oc=5",
-      "source": "Google News (gold)",
-      "summary": "FOREXCOM:XAUUSD Chart Image by Prime_X_Trader TradingView",
-      "published": "2026-09-27T22:50:23+00:00",
-      "ai_summary_ja": "TradingViewにPrime_X_Trader氏が投稿したFOREXCOM:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Prime_X_Trader」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、概要も同内容を示している。"
-    },
-    {
-      "id": "e9c95f578710",
-      "title": "Montage Gold achieves first gold pour at its Koné mine on budget and ahead of schedule",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-achieves-first-gold-221800961.html?.tsrc=rss",
+      "id": "d1bb53c3ae08",
+      "title": "Fortuna Mining Targets 500,000 Gold Ounces With West Africa Expansion",
+      "link": "https://www.marketbeat.com/instant-alerts/event-fortuna-mining-targets-500000-gold-ounces-with-west-africa-expansion-2026-09-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "HIGHLIGHTS: First gold pour at the Koné mine achieved on budget and ahead of the initial schedule of Q2-2027+14.1 million hours worked to date with a strong safety recordConstruction of the Koné mine has created approximately 3,600 jobs with over 95% national employment and will ",
-      "published": "2026-09-27T22:18:00+00:00",
-      "ai_summary_ja": "Montage Goldはコーネ鉱山で初の金地金（ゴールドプール）生産を達成したと発表した。Yahoo Finance（GC=F関連）経由の記事によると、当初2027年第2四半期以降を予定していたスケジュールより予算内かつ前倒しで実現した。これまで1,410万時間以上の無事故作業を記録し、建設工程では約3,600の雇用を創出、うち95%超が現地人雇用である。タイトルは「Montage Gold achieves first gold pour at its Koné mine on budget and ahead of schedule」である。"
+      "summary": "Fortuna Mining (NYSE:FSM) outlined plans to increase annual gold production from roughly 300,000 ounces to more than 500,000 ounces through the expansion of its Séguéla mine in Côte d’Ivoire and the development of its Diamba Sud project in Senegal. Jorge Ganoza, the company’s CEO",
+      "published": "2026-09-29T00:02:07+00:00",
+      "ai_summary_ja": "Fortuna Mining（NYSE:FSM）は、年間金産出量を約30万オンスから50万オンス超へ引き上げる計画を発表した。Yahoo Finance（GC=F関連）経由の報道によると、コートジボワールのセゲラ鉱山拡張とセネガルのディアンバ・スドプロジェクト開発が柱である。CEOのホルヘ・ガノサが方針を説明した。西アフリカ事業拡大による増産目標を示した2026年9月28日付の記事として配信されている。"
     },
     {
-      "id": "42464461243d",
-      "title": "OANDA:XAUUSD Chart Image by GOLD-CONQUERORS - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WLWVROU10c1NEdUFsdEZWTldUbjlOV1F4VXYxXzhtd1dpY2hNcUpnN0hub296VDNHS0ZUTzJYemN4ck10bXhaZld4MGtCUlU?oc=5",
+      "id": "4789ef0c8636",
+      "title": "Stockworks Gold Commences Follow up of High-Grade Gold Stream Sediment Anomalies at the Pirenopolis Project, Brazil",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/stockworks-gold-commences-high-grade-224900630.html?.tsrc=rss",
+      "source": "Yahoo GC=F",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 28, 2026) - Stockworks Gold Inc. (TSXV: STW) (OTCQB: STWGF) (FSE: 4XO1) (\"Stockworks\" or the \"Company\") is pleased to announce it has commenced detailed soil geochemical exploration activities at its 100% owned, road access",
+      "published": "2026-09-28T22:49:00+00:00",
+      "ai_summary_ja": "Stockworks Gold（TSXV:STW）は、ブラジル・ピレノポリスプロジェクトで高品位金の流水堆積物異常の追跡調査を開始した。Yahoo Finance（GC=F関連）経由の記事によれば、同社完全保有の道路アクセス可能な区画で詳細な土壌地球化学探査を実施している。本社はカナダ・バンクーバー。探鉱活動の継続を示した2026年9月28日付のプレスリリースとして公開され、Newsfile Corp.経由で配信された。"
+    },
+    {
+      "id": "4b3b53766364",
+      "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazhwTTVqVmVySUdoQlJmVGktMUJiVHhTNHotWXVGTXBUSjlGdjVqSmZyMlBMQzNsUnFuV0RTMUlNclNHWXpiSDE4ZFZmNVk3Mjh5ZkVjWEhGWlgtWWd2VlE0dWNvczlETE85ZXlYMFYtUXVBd01iNVd5UFVUc0p6ZENQVENDSWxsMEdlUGQ4NDJUU2xjSnBuclkyNm1xZzVLbWozLVVrSG52VXgzRFJZRWlqNlg0VFd6eGh2Yw?oc=5",
       "source": "Google News (gold)",
-      "summary": "OANDA:XAUUSD Chart Image by GOLD-CONQUERORS TradingView",
-      "published": "2026-09-27T20:37:26+00:00",
-      "ai_summary_ja": "TradingViewにGOLD-CONQUERORS氏が投稿したOANDA:XAUUSDのチャート画像が、Googleニュース（金関連）フィード経由で配信されている。タイトルは「OANDA:XAUUSD Chart Image by GOLD-CONQUERORS」で、ドル建て金のチャート可視化コンテンツである。2026年9月27日付で公開された相場チャートの共有投稿として掲載されており、価格推移の図表データが中心の記事である。"
+      "summary": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low thestreet.com",
+      "published": "2026-09-28T21:50:00+00:00",
+      "ai_summary_ja": "thestreet.comは、金価格が7週間ぶりの安値圏に下落した際、主要な金保有主体が26億5,000万ドルの含み損（紙上損失）を被ったと報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low」。金現物の価格低下と大口保有者の評価損を取り上げた報道である。"
+    },
+    {
+      "id": "776021067571",
+      "title": "Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0lhdmdNZ1Z4cjh3Ny1GQnh0TjVaa3F0N3N4OUF3amhTRFJhbFd2VEc4b1RFOE1XV1c4ZHVUalpCZk9KTjdwTF9QOTkzWmhEX0pSaVBkRHZYLU9EeURBcWhTTktiZ3c3RnJjRE5FNUhhdWtTTUFXUkpuM2tEMk0zWENCcjVVZTUxMVlSd0pvVHFBWlVnMUNkdHFuR2FxTjhhcG1pa1h3?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months - News and Statistics IndexBox",
+      "published": "2026-09-28T21:10:47+00:00",
+      "ai_summary_ja": "IndexBoxの記事「Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months」が、Googleニュース（金関連）フィード経由で配信されている。概要では、6か月以内に4,000ドルが下値支持線、5,000ドルが目標水準という見通しを示したとされる。金価格のレンジと時期を論じた統計・ニュース記事として公開された。2026年9月28日付。"
     }
   ],
   "bias": {
-    "direction": "中立",
-    "total": 0,
+    "direction": "弱気寄り",
+    "total": -3,
     "factors": {
       "gold": -1,
-      "dxy": 1,
-      "us10y": 0,
+      "dxy": -1,
+      "us10y": -1,
       "news": 0
     },
     "reasons": [
       "金の前日比がマイナス",
-      "ドル指数が弱い"
+      "ドル指数が強い"
     ],
     "caution": "短期材料ベース。継続は要確認",
     "news_counts": {
