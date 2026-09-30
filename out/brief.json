@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-29T09:17:32+09:00",
+  "generated_at": "2026-09-30T09:19:15+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4157.39990234375,
-      "prev": 4321.2001953125,
-      "change": -163.80029296875,
-      "change_pct": -3.7906203268812986,
+      "last": 4216.89990234375,
+      "prev": 4168.39990234375,
+      "change": 48.5,
+      "change_pct": 1.1635160046119877,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.22599792480469,
-      "prev": 100.97000122070312,
-      "change": 0.2559967041015625,
-      "change_pct": 0.25353738833972833,
+      "last": 101.41500091552734,
+      "prev": 101.19999694824219,
+      "change": 0.21500396728515625,
+      "change_pct": 0.21245451953434152,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 5.240000247955322,
-      "prev": 5.184000015258789,
-      "change": 0.0560002326965332,
-      "change_pct": 1.080251399145446,
+      "last": 5.255000114440918,
+      "prev": 5.239999771118164,
+      "change": 0.015000343322753906,
+      "change_pct": 0.28626610644971423,
       "ok": true,
       "error": null
     }
@@ -35,17 +35,108 @@
   "calendar_view": {
     "today": [
       {
-        "id": "2026-09-29-cad-gdp-m-m",
-        "date": "2026-09-29",
+        "id": "2026-09-30-aud-cpi-m-m",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "CPI m/m",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "0.5%",
+        "previous": "1.0%"
+      },
+      {
+        "id": "2026-09-30-aud-cpi-y-y",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "CPI y/y",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "4.1%",
+        "previous": "3.5%"
+      },
+      {
+        "id": "2026-09-30-aud-trimmed-mean-cpi-m-m",
+        "date": "2026-09-30",
+        "time_jst": "10:30",
+        "name": "Trimmed Mean CPI m/m",
+        "country": "AUD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "0.3%",
+        "previous": "0.5%"
+      },
+      {
+        "id": "2026-09-30-eur-german-prelim-cpi-m-m",
+        "date": "2026-09-30",
+        "time_jst": "15:29",
+        "name": "German Prelim CPI m/m",
+        "country": "EUR",
+        "impact": "medium",
+        "gold_relevance": "high",
+        "note": "インフレ→金利期待→金に直結しやすい",
+        "source": "faireconomy",
+        "forecast": "0.5%",
+        "previous": "0.2%"
+      },
+      {
+        "id": "2026-09-30-usd-adp-non-farm-employment-change",
+        "date": "2026-09-30",
+        "time_jst": "21:15",
+        "name": "ADP Non-Farm Employment Change",
+        "country": "USD",
+        "impact": "medium",
+        "gold_relevance": "high",
+        "note": "雇用・ドル・金利反応が大きい",
+        "source": "faireconomy",
+        "forecast": "73K",
+        "previous": "38K"
+      },
+      {
+        "id": "2026-09-30-usd-core-pce-price-index-m-m",
+        "date": "2026-09-30",
         "time_jst": "21:30",
-        "name": "GDP m/m",
-        "country": "CAD",
+        "name": "Core PCE Price Index m/m",
+        "country": "USD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "Fed重視のインフレ指標。金利期待に影響",
+        "source": "faireconomy",
+        "forecast": "0.3%",
+        "previous": "0.2%"
+      },
+      {
+        "id": "2026-09-30-usd-final-gdp-q-q",
+        "date": "2026-09-30",
+        "time_jst": "21:30",
+        "name": "Final GDP q/q",
+        "country": "USD",
+        "impact": "high",
+        "gold_relevance": "medium",
+        "note": "景気材料。ドル反応を通じて金に波及しうる",
+        "source": "faireconomy",
+        "forecast": "1.5%",
+        "previous": "1.5%"
+      },
+      {
+        "id": "2026-09-30-usd-final-gdp-price-index-q-q",
+        "date": "2026-09-30",
+        "time_jst": "21:30",
+        "name": "Final GDP Price Index q/q",
+        "country": "USD",
         "impact": "medium",
         "gold_relevance": "medium",
         "note": "景気材料。ドル反応を通じて金に波及しうる",
         "source": "faireconomy",
-        "forecast": "0.0%",
-        "previous": "0.3%"
+        "forecast": "6.4%",
+        "previous": "6.4%"
       }
     ],
     "week": [
@@ -92,65 +183,65 @@
   },
   "news": [
     {
-      "id": "b171aeaea195",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.4% Amid Global Bond Market Sell-Off - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMG9xTDEwRVo3Nkt4ckJXcDFkTE4zZVB1dmMwUXVjUHpnMEt0NEdxQnp2amstSjJnalM5bldXN3dHRWgwbi1uRXcxRjNFTVQtODFvUjZRVmYyWmI4WFhmT0c3aDVrLUZxaktQWHB0dHItanhXRXFZWDRSaVFFdHljdVZoemRBV0IyZ3RaZ1J1QjktWVhCYmg0VVR6aTllemNmN1p3UDJUUUt4dkdUZXZVcnZycUlVSzFmSWtSVlFYakNDcWprSnI0V0pvM1VYaEt5eUE?oc=5",
+      "id": "fb3a416befa4",
+      "title": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGcnpOUEh0RWN0czh1cmMtWHFiVzlybWRhY1B4UzZZdEpXZXdHRmZVaEI3WVVwbGpfNW5vdXpBay1VVEs4MFIwRGJGU2RfQ28?oc=5",
       "source": "Google News (gold)",
-      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.4% Amid Global Bond Market Sell-Off FXEmpire",
-      "published": "2026-09-29T00:04:05+00:00",
-      "ai_summary_ja": "FXEmpireは、世界債券市場の売り圧力の中で金（XAUUSD）が3.4%下落したと報じている。Googleニュース（金関連）フィード経由の記事で、タイトルは「Gold Dives 3.4% Amid Global Bond Market Sell-Off」。銀・プラチナの見通しも含む予測記事として、金価格の大幅下落を取り上げている。概要も同内容を示しており、2026年9月29日付で配信された国際金相場関連の報道である。"
+      "summary": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official TradingView",
+      "published": "2026-09-30T00:07:01+00:00",
+      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「Trader_X_Alpha_Official」が投稿したFOREXCOM:XAUUSDのチャート画像記事が配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - TradingView」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析を取り上げた投稿である。2026年9月30日0:07（UTC）付で公開された。"
     },
     {
-      "id": "d1bb53c3ae08",
-      "title": "Fortuna Mining Targets 500,000 Gold Ounces With West Africa Expansion",
-      "link": "https://www.marketbeat.com/instant-alerts/event-fortuna-mining-targets-500000-gold-ounces-with-west-africa-expansion-2026-09-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "id": "84e1fcf9c11a",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
+      "source": "Google News (gold)",
+      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar FXEmpire",
+      "published": "2026-09-30T00:04:42+00:00",
+      "ai_summary_ja": "FXEmpireの記事「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar」がGoogleニュース（金関連）フィード経由で配信されている。概要によれば、強いドル環境下にもかかわらず金（XAUUSD）が反発を試みているとされる。銀・プラチナの見通しも含む予測記事として、2026年9月30日付で公開された国際金相場関連の報道である。"
+    },
+    {
+      "id": "618edba464c2",
+      "title": "Michael Saylor calls it a Bitcoin 'gold rush,' sees $120 trillion upside",
+      "link": "https://www.thestreet.com/crypto/markets/michael-saylor-says-bitcoin-is-in-a-gold-rush-with-a-120-trillion-opportunity?.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "Fortuna Mining (NYSE:FSM) outlined plans to increase annual gold production from roughly 300,000 ounces to more than 500,000 ounces through the expansion of its Séguéla mine in Côte d’Ivoire and the development of its Diamba Sud project in Senegal. Jorge Ganoza, the company’s CEO",
-      "published": "2026-09-29T00:02:07+00:00",
-      "ai_summary_ja": "Fortuna Mining（NYSE:FSM）は、年間金産出量を約30万オンスから50万オンス超へ引き上げる計画を発表した。Yahoo Finance（GC=F関連）経由の報道によると、コートジボワールのセゲラ鉱山拡張とセネガルのディアンバ・スドプロジェクト開発が柱である。CEOのホルヘ・ガノサが方針を説明した。西アフリカ事業拡大による増産目標を示した2026年9月28日付の記事として配信されている。"
+      "summary": "Strategy’s Executive Chairman says Bitcoin has entered “hyper-growth mode” and could capture a slice of the world’s $1,200 trillion in assets.",
+      "published": "2026-09-30T00:04:00+00:00",
+      "ai_summary_ja": "Yahoo Finance（GC=F関連）経由のthestreet.com記事によると、StrategyのエグゼクティブチェアマンMichael Saylorは、ビットコインが「ハイパーグロースモード」に入ったと述べ、世界の資産約1200兆ドルの一部を獲得できる可能性を示唆した。タイトルは「Michael Saylor calls it a Bitcoin 'gold rush,' sees $120 trillion upside」。2026年9月30日付で配信されている。"
     },
     {
-      "id": "4789ef0c8636",
-      "title": "Stockworks Gold Commences Follow up of High-Grade Gold Stream Sediment Anomalies at the Pirenopolis Project, Brazil",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/stockworks-gold-commences-high-grade-224900630.html?.tsrc=rss",
+      "id": "b28e03d9a7dc",
+      "title": "FX_IDC:XAUUSD Chart Image by TheWaveCave - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdkF6N3h0YlFXVzdGMlFjdGZqNE1VUXRkZ2lMUllSTk9CZEhsSEpNOTlDcWNVdFdIek5oeE9qNk9oX1NQSHdzMzBEczRFLWtz?oc=5",
+      "source": "Google News (gold)",
+      "summary": "FX_IDC:XAUUSD Chart Image by TheWaveCave TradingView",
+      "published": "2026-09-29T23:08:25+00:00",
+      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「TheWaveCave」が投稿したFX_IDC:XAUUSDのチャート画像記事が配信されている。タイトルは「FX_IDC:XAUUSD Chart Image by TheWaveCave - TradingView」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析投稿である。2026年9月29日23:08（UTC）付で公開された。"
+    },
+    {
+      "id": "a141ff5ce80e",
+      "title": "Wheaton Precious Metals Eyes 1.2M Ounces by 2030 as Deal Pipeline Expands",
+      "link": "https://www.marketbeat.com/instant-alerts/event-wheaton-precious-metals-eyes-12m-ounces-by-2030-as-deal-pipeline-expands-2026-09-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 28, 2026) - Stockworks Gold Inc. (TSXV: STW) (OTCQB: STWGF) (FSE: 4XO1) (\"Stockworks\" or the \"Company\") is pleased to announce it has commenced detailed soil geochemical exploration activities at its 100% owned, road access",
-      "published": "2026-09-28T22:49:00+00:00",
-      "ai_summary_ja": "Stockworks Gold（TSXV:STW）は、ブラジル・ピレノポリスプロジェクトで高品位金の流水堆積物異常の追跡調査を開始した。Yahoo Finance（GC=F関連）経由の記事によれば、同社完全保有の道路アクセス可能な区画で詳細な土壌地球化学探査を実施している。本社はカナダ・バンクーバー。探鉱活動の継続を示した2026年9月28日付のプレスリリースとして公開され、Newsfile Corp.経由で配信された。"
-    },
-    {
-      "id": "4b3b53766364",
-      "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazhwTTVqVmVySUdoQlJmVGktMUJiVHhTNHotWXVGTXBUSjlGdjVqSmZyMlBMQzNsUnFuV0RTMUlNclNHWXpiSDE4ZFZmNVk3Mjh5ZkVjWEhGWlgtWWd2VlE0dWNvczlETE85ZXlYMFYtUXVBd01iNVd5UFVUc0p6ZENQVENDSWxsMEdlUGQ4NDJUU2xjSnBuclkyNm1xZzVLbWozLVVrSG52VXgzRFJZRWlqNlg0VFd6eGh2Yw?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low thestreet.com",
-      "published": "2026-09-28T21:50:00+00:00",
-      "ai_summary_ja": "thestreet.comは、金価格が7週間ぶりの安値圏に下落した際、主要な金保有主体が26億5,000万ドルの含み損（紙上損失）を被ったと報じている。Googleニュース（金関連）フィード経由で配信された記事で、タイトルは「Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low」。金現物の価格低下と大口保有者の評価損を取り上げた報道である。"
-    },
-    {
-      "id": "776021067571",
-      "title": "Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0lhdmdNZ1Z4cjh3Ny1GQnh0TjVaa3F0N3N4OUF3amhTRFJhbFd2VEc4b1RFOE1XV1c4ZHVUalpCZk9KTjdwTF9QOTkzWmhEX0pSaVBkRHZYLU9EeURBcWhTTktiZ3c3RnJjRE5FNUhhdWtTTUFXUkpuM2tEMk0zWENCcjVVZTUxMVlSd0pvVHFBWlVnMUNkdHFuR2FxTjhhcG1pa1h3?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months - News and Statistics IndexBox",
-      "published": "2026-09-28T21:10:47+00:00",
-      "ai_summary_ja": "IndexBoxの記事「Gold Price Outlook: $4,000 Floor, $5,000 Target Within Six Months」が、Googleニュース（金関連）フィード経由で配信されている。概要では、6か月以内に4,000ドルが下値支持線、5,000ドルが目標水準という見通しを示したとされる。金価格のレンジと時期を論じた統計・ニュース記事として公開された。2026年9月28日付。"
+      "summary": "Wheaton Precious Metals (NYSE:WPM) President and CEO Haytham Hodaly said the company is expanding its technical team and reviewing a larger-than-usual pipeline of potential streaming transactions as it pursues growth through 2030. Speaking at a company event, Hodaly said Wheaton ",
+      "published": "2026-09-29T23:02:15+00:00",
+      "ai_summary_ja": "Wheaton Precious Metals（NYSE:WPM）のCEO Haytham Hodalyは、2030年までに120万オンス規模の事業拡大と、通常より多いストリーミング取引パイプラインの検討を示した。Yahoo Finance（GC=F関連）経由のMarketBeat報道によると、同社は技術チームを拡充し、2030年までの成長を進める方針である。2026年9月29日付の記事として配信されている。"
     }
   ],
   "bias": {
-    "direction": "弱気寄り",
-    "total": -3,
+    "direction": "中立",
+    "total": 0,
     "factors": {
-      "gold": -1,
+      "gold": 1,
       "dxy": -1,
-      "us10y": -1,
+      "us10y": 0,
       "news": 0
     },
     "reasons": [
-      "金の前日比がマイナス",
+      "金の前日比がプラス",
       "ドル指数が強い"
     ],
-    "caution": "短期材料ベース。継続は要確認",
+    "caution": "10:30 CPI m/m。インフレ→金利期待→金に直結しやすい",
     "news_counts": {
       "bull": 0,
       "bear": 0
