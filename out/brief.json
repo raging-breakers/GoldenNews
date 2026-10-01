@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-30T09:19:15+09:00",
+  "generated_at": "2026-10-01T09:19:51+09:00",
   "timezone": "Asia/Tokyo",
   "title": "GOLD Morning Brief",
   "disclaimer": "個人用メモです。投資助言ではありません。",
   "markets": {
     "gold": {
       "symbol": "GC=F",
-      "last": 4216.89990234375,
-      "prev": 4168.39990234375,
-      "change": 48.5,
-      "change_pct": 1.1635160046119877,
+      "last": 4181.5,
+      "prev": 4179.7001953125,
+      "change": 1.7998046875,
+      "change_pct": 0.0430606168719581,
       "ok": true,
       "error": null
     },
     "dxy": {
       "symbol": "DX-Y.NYB",
-      "last": 101.41500091552734,
-      "prev": 101.19999694824219,
-      "change": 0.21500396728515625,
-      "change_pct": 0.21245451953434152,
+      "last": 101.5009994506836,
+      "prev": 101.37000274658203,
+      "change": 0.1309967041015625,
+      "change_pct": 0.1292263002389821,
       "ok": true,
       "error": null
     },
     "us10y": {
       "symbol": "^TNX",
-      "last": 5.255000114440918,
-      "prev": 5.239999771118164,
-      "change": 0.015000343322753906,
-      "change_pct": 0.28626610644971423,
+      "last": 5.293000221252441,
+      "prev": 5.255000114440918,
+      "change": 0.03800010681152344,
+      "change_pct": 0.7231228541194101,
       "ok": true,
       "error": null
     }
@@ -35,213 +35,173 @@
   "calendar_view": {
     "today": [
       {
-        "id": "2026-09-30-aud-cpi-m-m",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
+        "id": "2026-10-01-usd-fomc-member-kashkari-speaks",
+        "date": "2026-10-01",
+        "time_jst": "07:00",
+        "name": "FOMC Member Kashkari Speaks",
+        "country": "USD",
+        "impact": "medium",
+        "gold_relevance": "high",
+        "note": "金融政策。方向よりボラ拡大に注意",
+        "source": "faireconomy",
+        "forecast": "",
+        "previous": ""
+      },
+      {
+        "id": "2026-10-01-chf-cpi-m-m",
+        "date": "2026-10-01",
+        "time_jst": "15:30",
         "name": "CPI m/m",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
-        "source": "faireconomy",
-        "forecast": "0.5%",
-        "previous": "1.0%"
-      },
-      {
-        "id": "2026-09-30-aud-cpi-y-y",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
-        "name": "CPI y/y",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
-        "source": "faireconomy",
-        "forecast": "4.1%",
-        "previous": "3.5%"
-      },
-      {
-        "id": "2026-09-30-aud-trimmed-mean-cpi-m-m",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
-        "name": "Trimmed Mean CPI m/m",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
-        "source": "faireconomy",
-        "forecast": "0.3%",
-        "previous": "0.5%"
-      },
-      {
-        "id": "2026-09-30-eur-german-prelim-cpi-m-m",
-        "date": "2026-09-30",
-        "time_jst": "15:29",
-        "name": "German Prelim CPI m/m",
-        "country": "EUR",
+        "country": "CHF",
         "impact": "medium",
         "gold_relevance": "high",
         "note": "インフレ→金利期待→金に直結しやすい",
         "source": "faireconomy",
-        "forecast": "0.5%",
-        "previous": "0.2%"
+        "forecast": "0.0%",
+        "previous": "0.4%"
       },
       {
-        "id": "2026-09-30-usd-adp-non-farm-employment-change",
-        "date": "2026-09-30",
-        "time_jst": "21:15",
-        "name": "ADP Non-Farm Employment Change",
+        "id": "2026-10-01-usd-unemployment-claims",
+        "date": "2026-10-01",
+        "time_jst": "21:30",
+        "name": "Unemployment Claims",
         "country": "USD",
         "impact": "medium",
         "gold_relevance": "high",
-        "note": "雇用・ドル・金利反応が大きい",
+        "note": "雇用・ドル材料",
         "source": "faireconomy",
-        "forecast": "73K",
-        "previous": "38K"
+        "forecast": "201K",
+        "previous": "197K"
       },
       {
-        "id": "2026-09-30-usd-core-pce-price-index-m-m",
-        "date": "2026-09-30",
-        "time_jst": "21:30",
-        "name": "Core PCE Price Index m/m",
+        "id": "2026-10-01-usd-fomc-member-waller-speaks",
+        "date": "2026-10-01",
+        "time_jst": "23:00",
+        "name": "FOMC Member Waller Speaks",
         "country": "USD",
-        "impact": "high",
+        "impact": "medium",
         "gold_relevance": "high",
-        "note": "Fed重視のインフレ指標。金利期待に影響",
+        "note": "金融政策。方向よりボラ拡大に注意",
         "source": "faireconomy",
-        "forecast": "0.3%",
-        "previous": "0.2%"
+        "forecast": "",
+        "previous": ""
       },
       {
-        "id": "2026-09-30-usd-final-gdp-q-q",
-        "date": "2026-09-30",
-        "time_jst": "21:30",
-        "name": "Final GDP q/q",
-        "country": "USD",
-        "impact": "high",
-        "gold_relevance": "medium",
-        "note": "景気材料。ドル反応を通じて金に波及しうる",
-        "source": "faireconomy",
-        "forecast": "1.5%",
-        "previous": "1.5%"
-      },
-      {
-        "id": "2026-09-30-usd-final-gdp-price-index-q-q",
-        "date": "2026-09-30",
-        "time_jst": "21:30",
-        "name": "Final GDP Price Index q/q",
+        "id": "2026-10-01-usd-ism-manufacturing-pmi",
+        "date": "2026-10-01",
+        "time_jst": "23:00",
+        "name": "ISM Manufacturing PMI",
         "country": "USD",
         "impact": "medium",
         "gold_relevance": "medium",
-        "note": "景気材料。ドル反応を通じて金に波及しうる",
+        "note": "景気・ドル材料",
         "source": "faireconomy",
-        "forecast": "6.4%",
-        "previous": "6.4%"
+        "forecast": "54.8",
+        "previous": "54.6"
       }
     ],
     "week": [
       {
-        "id": "2026-09-30-aud-cpi-m-m",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
-        "name": "CPI m/m",
-        "country": "AUD",
+        "id": "2026-10-02-usd-average-hourly-earnings-m-m",
+        "date": "2026-10-02",
+        "time_jst": "21:30",
+        "name": "Average Hourly Earnings m/m",
+        "country": "USD",
         "impact": "high",
         "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
-        "source": "faireconomy",
-        "forecast": "0.5%",
-        "previous": "1.0%"
-      },
-      {
-        "id": "2026-09-30-aud-cpi-y-y",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
-        "name": "CPI y/y",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
-        "source": "faireconomy",
-        "forecast": "4.1%",
-        "previous": "3.5%"
-      },
-      {
-        "id": "2026-09-30-aud-trimmed-mean-cpi-m-m",
-        "date": "2026-09-30",
-        "time_jst": "10:30",
-        "name": "Trimmed Mean CPI m/m",
-        "country": "AUD",
-        "impact": "high",
-        "gold_relevance": "high",
-        "note": "インフレ→金利期待→金に直結しやすい",
+        "note": "USD / high impact — 予想 0.3%、前回 0.3%",
         "source": "faireconomy",
         "forecast": "0.3%",
-        "previous": "0.5%"
+        "previous": "0.3%"
+      },
+      {
+        "id": "2026-10-02-usd-non-farm-employment-change",
+        "date": "2026-10-02",
+        "time_jst": "21:30",
+        "name": "Non-Farm Employment Change",
+        "country": "USD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "雇用・ドル・金利反応が大きい",
+        "source": "faireconomy",
+        "forecast": "90K",
+        "previous": "162K"
+      },
+      {
+        "id": "2026-10-02-usd-unemployment-rate",
+        "date": "2026-10-02",
+        "time_jst": "21:30",
+        "name": "Unemployment Rate",
+        "country": "USD",
+        "impact": "high",
+        "gold_relevance": "high",
+        "note": "雇用・ドル材料",
+        "source": "faireconomy",
+        "forecast": "4.1%",
+        "previous": "4.1%"
       }
     ]
   },
   "news": [
     {
-      "id": "fb3a416befa4",
-      "title": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGcnpOUEh0RWN0czh1cmMtWHFiVzlybWRhY1B4UzZZdEpXZXdHRmZVaEI3WVVwbGpfNW5vdXpBay1VVEs4MFIwRGJGU2RfQ28?oc=5",
+      "id": "578611f860f9",
+      "title": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rUGxGdUZvbzFqRHZza3dwVmhoTlJkanJ6ZWJJLWowZElSNTIyREpNMUJJRTJpY2tZY1FPVXRCd3I3UExUUy15dFdPc05YUDg?oc=5",
       "source": "Google News (gold)",
-      "summary": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official TradingView",
-      "published": "2026-09-30T00:07:01+00:00",
-      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「Trader_X_Alpha_Official」が投稿したFOREXCOM:XAUUSDのチャート画像記事が配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - TradingView」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析を取り上げた投稿である。2026年9月30日0:07（UTC）付で公開された。"
+      "summary": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official tradingview.com",
+      "published": "2026-09-30T23:55:22+00:00",
+      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「Trader_X_Alpha_Official」が投稿したFOREXCOM:XAUUSDのチャート画像記事が配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - tradingview.com」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析投稿である。2026年9月30日23:55（UTC）付で公開された。"
     },
     {
-      "id": "84e1fcf9c11a",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
-      "source": "Google News (gold)",
-      "summary": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar FXEmpire",
-      "published": "2026-09-30T00:04:42+00:00",
-      "ai_summary_ja": "FXEmpireの記事「Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar」がGoogleニュース（金関連）フィード経由で配信されている。概要によれば、強いドル環境下にもかかわらず金（XAUUSD）が反発を試みているとされる。銀・プラチナの見通しも含む予測記事として、2026年9月30日付で公開された国際金相場関連の報道である。"
-    },
-    {
-      "id": "618edba464c2",
-      "title": "Michael Saylor calls it a Bitcoin 'gold rush,' sees $120 trillion upside",
-      "link": "https://www.thestreet.com/crypto/markets/michael-saylor-says-bitcoin-is-in-a-gold-rush-with-a-120-trillion-opportunity?.tsrc=rss",
+      "id": "7746e3454be8",
+      "title": "Small Cap Watch: Small caps rebound as Riversgold advances Northern Zone permitting",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099404/small-cap-watch-small-caps-rebound-as-riversgold-advances-northern-zone-permitting-1099404.html?.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "Strategy’s Executive Chairman says Bitcoin has entered “hyper-growth mode” and could capture a slice of the world’s $1,200 trillion in assets.",
-      "published": "2026-09-30T00:04:00+00:00",
-      "ai_summary_ja": "Yahoo Finance（GC=F関連）経由のthestreet.com記事によると、StrategyのエグゼクティブチェアマンMichael Saylorは、ビットコインが「ハイパーグロースモード」に入ったと述べ、世界の資産約1200兆ドルの一部を獲得できる可能性を示唆した。タイトルは「Michael Saylor calls it a Bitcoin 'gold rush,' sees $120 trillion upside」。2026年9月30日付で配信されている。"
+      "summary": "The S&P/ASX Small Ordinaries Index (ASX: XSO) regained ground in the latest session, rising 0.70% or 23.40 points to 3,368.60. The small-cap benchmark remains slightly lower over the past five sessions, down 0.16% or 5.50 points, highlighting a broadly subdued week despite the la",
+      "published": "2026-09-30T23:25:00+00:00",
+      "ai_summary_ja": "Yahoo Finance（GC=F関連）経由のProactive Investors記事「Small Cap Watch: Small caps rebound as Riversgold advances Northern Zone permitting」によると、S&P/ASX Small Ordinaries Indexは最新セッションで0.70%（23.40ポイント）上昇し3368.60で推移した。RiversgoldはNorthern Zone許認可を前進させている。過去5セッションでは0.16%下落で、小規模株全体は依然穏やかな週となっている。"
     },
     {
-      "id": "b28e03d9a7dc",
-      "title": "FX_IDC:XAUUSD Chart Image by TheWaveCave - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdkF6N3h0YlFXVzdGMlFjdGZqNE1VUXRkZ2lMUllSTk9CZEhsSEpNOTlDcWNVdFdIek5oeE9qNk9oX1NQSHdzMzBEczRFLWtz?oc=5",
-      "source": "Google News (gold)",
-      "summary": "FX_IDC:XAUUSD Chart Image by TheWaveCave TradingView",
-      "published": "2026-09-29T23:08:25+00:00",
-      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「TheWaveCave」が投稿したFX_IDC:XAUUSDのチャート画像記事が配信されている。タイトルは「FX_IDC:XAUUSD Chart Image by TheWaveCave - TradingView」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析投稿である。2026年9月29日23:08（UTC）付で公開された。"
-    },
-    {
-      "id": "a141ff5ce80e",
-      "title": "Wheaton Precious Metals Eyes 1.2M Ounces by 2030 as Deal Pipeline Expands",
-      "link": "https://www.marketbeat.com/instant-alerts/event-wheaton-precious-metals-eyes-12m-ounces-by-2030-as-deal-pipeline-expands-2026-09-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "id": "b16c911474cf",
+      "title": "Barrick Mining (B) Reaches Mali Labor Deal To Avert Loulo Gounkoto Strikes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-reaches-mali-231306757.html?.tsrc=rss",
       "source": "Yahoo GC=F",
-      "summary": "Wheaton Precious Metals (NYSE:WPM) President and CEO Haytham Hodaly said the company is expanding its technical team and reviewing a larger-than-usual pipeline of potential streaming transactions as it pursues growth through 2030. Speaking at a company event, Hodaly said Wheaton ",
-      "published": "2026-09-29T23:02:15+00:00",
-      "ai_summary_ja": "Wheaton Precious Metals（NYSE:WPM）のCEO Haytham Hodalyは、2030年までに120万オンス規模の事業拡大と、通常より多いストリーミング取引パイプラインの検討を示した。Yahoo Finance（GC=F関連）経由のMarketBeat報道によると、同社は技術チームを拡充し、2030年までの成長を進める方針である。2026年9月29日付の記事として配信されている。"
+      "summary": "Barrick Mining (NYSE:B) reached a labor agreement with Mali unions covering workers at the Loulo-Gounkoto gold complex. The deal addresses overtime pay terms, expense reimbursements, and application of existing labor agreements for mine employees. Union leaders have called off pl",
+      "published": "2026-09-30T23:13:06+00:00",
+      "ai_summary_ja": "Yahoo Finance（GC=F関連）経由の報道によると、Barrick Mining（NYSE:B）はマリの労働組合とLoulo-Gounkoto金鉱複合体の労使協議で合意に達した。タイトルは「Barrick Mining (B) Reaches Mali Labor Deal To Avert Loulo Gounkoto Strikes」。残業手当、経費精算、既存労使協定の適用が内容で、組合側は計画していたストライキを取りやめた。2026年9月30日付の記事として配信されている。"
+    },
+    {
+      "id": "a36a507fffe0",
+      "title": "OANDA:XAUUSD Chart Image by Olisa_9 - tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeWRWTU1hRG9qa09fQmY5Z3ZjU0x1WVBLQ2ZsaFRYU3B3eEw4WkcxRkZBWkhuNEVfZ3l5cGE5c1VhTGVMaWx1bEtTX3NzWWM?oc=5",
+      "source": "Google News (gold)",
+      "summary": "OANDA:XAUUSD Chart Image by Olisa_9 tradingview.com",
+      "published": "2026-09-30T21:54:55+00:00",
+      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「Olisa_9」が投稿したOANDA:XAUUSDのチャート画像記事が配信されている。タイトルは「OANDA:XAUUSD Chart Image by Olisa_9 - tradingview.com」。概要も同内容を示しており、金（XAUUSD）相場のチャート分析投稿である。2026年9月30日21:54（UTC）付で公開された。"
+    },
+    {
+      "id": "6b165ae978d8",
+      "title": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWmpCT2pfMUFQUEVndEkySENQd2hCX09QWWxaNTlaUHBLNTZibTBhWWhkeFREMzA2TlljTFZhT0hNSHF3SndSdnpPWjNVdzg?oc=5",
+      "source": "Google News (gold)",
+      "summary": "FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official tradingview.com",
+      "published": "2026-09-30T21:54:55+00:00",
+      "ai_summary_ja": "Googleニュース（金関連）フィード経由で、TradingViewユーザー「Trader_X_Alpha_Official」が投稿した別のFOREXCOM:XAUUSDチャート画像記事が配信されている。タイトルは「FOREXCOM:XAUUSD Chart Image by Trader_X_Alpha_Official - tradingview.com」。金（XAUUSD）相場のチャート分析を取り上げた投稿で、2026年9月30日21:54（UTC）付で公開された。"
     }
   ],
   "bias": {
     "direction": "中立",
-    "total": 0,
+    "total": -1,
     "factors": {
-      "gold": 1,
-      "dxy": -1,
-      "us10y": 0,
+      "gold": 0,
+      "dxy": 0,
+      "us10y": -1,
       "news": 0
     },
     "reasons": [
-      "金の前日比がプラス",
-      "ドル指数が強い"
+      "米金利が上昇"
     ],
-    "caution": "10:30 CPI m/m。インフレ→金利期待→金に直結しやすい",
+    "caution": "07:00 FOMC Member Kashkari Speaks。金融政策。方向よりボラ拡大に注意",
     "news_counts": {
       "bull": 0,
       "bear": 0
